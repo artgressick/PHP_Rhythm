@@ -1,0 +1,14 @@
+﻿/* July 24, 2007 */
+
+ALTER TABLE Customers ADD chrCPerson VARCHAR(100);
+ALTER TABLE Customers ADD chrCEmail VARCHAR(100);
+
+/* September 4th 2007 */
+ALTER TABLE WorkOrders ADD dDefaultUnitPrice DOUBLE AFTER dtModified;
+
+/* Sept 13, 2007 */
+INSERT INTO StatusTypes (chrKEY,chrStatus) VALUES ('d7ed4cb9f3b0292ee2c014d5a6bd935f92c37bac','Paid');
+
+ALTER TABLE Quotes ADD idContact SMALLINT UNSIGNED AFTER idCurrency;
+ALTER TABLE Quotes ADD dBegin DATE AFTER dtModified;
+ALTER TABLE Quotes ADD dEnd DATE AFTER dBegin;

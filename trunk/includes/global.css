@@ -1,0 +1,242 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body,th,td { font-family: Arial, Verdana, sans-serif; font-size: 12px; }
+body { background: #fff; color: #000; margin: 0; }
+
+img { border: 0; padding: 0; }
+form { margin: 0; padding: 0; }
+input { margin: 0; }
+
+.frame { width: 100%; height: 100%; margin: 0; padding: 0; }
+.frame .topbar { background: #6699cc; }
+.frame .topbar .logo { width: 175px; height: 60px; vertical-align: middle; }
+.frame .topbar .innertop td { width: 100%; color: white; font-size: 10px; padding: 0 10px; }
+.frame .datetime { width: 175px; height: 20px; font-size: 10px; text-align: center; vertical-align: middle; background: #000; color: #EEEF4A; }
+
+.frame .buttons .buttonmenu { height: 20px; }
+.frame .buttons .buttonmenu td { padding: 0 15px; border-right: 1px solid #8FC2FF; font-size: 10px; vertical-align: middle; background: black; color: white; }
+.frame .buttons .buttonmenu a { color: white; text-decoration: none; }
+.frame .buttons .buttonmenu .active { background: #f5f5f5; }
+.frame .buttons .buttonmenu .active a { color: black; }
+.frame .buttons .buttonmenu a:hover { text-decoration: underline; }
+.frame .buttons .buttonmenu .right { width: 100%; border-right: none; }
+
+.frame .graysplitter { background: #f5f5f5; height: 6px; }
+
+.frame .lefttoolbar { height: 100%; width: 175px; vertical-align: top; background: #f5f5f5; }
+.frame .maincontent { width: 100%; height: 100%; vertical-align: top; border: 1px solid black; border-right: 0; }
+.content { padding: 10px; }
+
+.frame .bottomlogo { height: 50px; text-align: center; background: #f5f5f5; }
+.frame .disclaimer { width: 100%; height: 50px; font-size: 10px; text-align: center; background: #f5f5f5; }
+
+
+/* These are for displaying the error and information messages on the screen. */
+.ErrorMessage { background: #FFBFC5; color: #601319; border-left: 3px solid #601319; padding: 2px 4px; margin: 2px 0; }
+.ErrorMessage A { color: black; }
+.InfoMessage { background-color: #B3EFB5; color: #144F16; border-left: 3px solid #144F16; padding: 2px 4px; margin:0 0 4px; }
+.InfoMessage A { color: black; }
+
+/* Basic formatting for the text, select, textarea and checkbox type fields */
+input, select, button { vertical-align: baseline; border: 1px solid #999; }
+input, select, textarea { font-size: 11px; border: 1px solid #999; }
+input[type=checkbox] { vertical-align: middle; }
+
+/* This is the forms section all CSS that affect forms go in this area.*/
+.FormName { font-size: 11px; line-height: 14px; font-weight: bold; margin: 3px 0 0 2px; }
+.FormField { margin-bottom: 5px; }
+.FormDisplay { margin: 0 0 5px 5px; font-size: 12px; }
+.FormRequired { font-size: 11px; line-height: 16px; color: #666; }
+
+/* This is the css for the left side information */
+.leftTitle { font-size: 14px; font-weight: bold; margin: 10px; margin-bottom: 0; padding-bottom: 3px; width: 155px; border-bottom: 1px solid black; }
+.leftContent { width: 155px; padding: 2px 10px; margin-bottom: 20px; font-size: 11px; }
+.leftContent a { text-decoration: none; line-height: 16px; }
+.leftContent a:hover { text-decoration: underline; }
+.leftContent .active { margin-left: -10px; padding-left: 10px; width: 165px; background: black; }
+.leftContent .active a { color: white; }
+
+/* Generic headers to replace the h1,h2...h6 series */
+.header1 { font-size: 20px; font-weight: bold; }
+.header2 { font-size: 16px; font-weight: bold; }
+.h2gray { font-size: 16px; color: gray; }
+.header3 { font-size: 14px; font-weight: bold; }
+.h3gray { font-size: 16px; color: gray; }
+.header4 { font-size: 12px; font-weight: bold; }
+.h4gray { font-size: 16px; color: gray; }
+.header5 { font-size: 10px; font-weight: bold; }
+.header6 { font-size: 8px; font-weight: bold; }
+
+
+/* List Page CSS */
+.filter { margin: 0; padding: 0px; width: 100%; }
+.filter td { vertical-align: middle; background: #6699cc; color: #FFF; padding: 2px 4px; white-space: nowrap; }
+.filter .filterRight { text-align: right; width: 100%; }
+
+.filter2 { margin: 0; padding: 0px; width: 100%; }
+.filter2 td { vertical-align: middle; background: #ffccaa; color: #000; padding: 2px 4px; white-space: nowrap; }
+.filter2 .filter2Right { text-align: right; width: 100%; }
+.resultsShown { font-size: 12px; color: #666; }
+
+/* Instructions for the add and edit pages */
+.instructions { background: #6699cc; color: #fff; padding: 2px 4px; }
+.instructions800 { background: #6699cc; color: #fff; padding: 3px 5px; width: 800px; }
+
+/* overlays */
+.warning { text-align: center; border: 1px solid #666; width: 400px; margin: auto; background: #fff; margin-top: 200px; display: block; }
+.warning .red { background: #6F0000; color: #fff; padding: 10px; font-size: 16px; }
+.warning .body { padding: 15px 10px; }
+
+.notice { text-align: center; border: 1px solid #666; width: 400px; margin: auto; background: #fff; margin-top: 200px; display: block; }
+.notice .green { background: #A4EFAC; color: #000; padding: 10px; font-size: 16px; }
+.notice .body { padding: 15px 10px; }
+
+.normal { display: block; }
+.overlaypage { display: none; text-align: center; z-index: 10; }
+.overlaypage .gray { position: absolute; top: 0; left: 0; height: 100%; width: 100%; opacity: .5; filter: alpha(opacity=50); background: #333; z-index: 20; }
+.overlaypage .message { position: absolute; top: 0; left: 0; height: 100%; width: 100%; z-index: 30; }
+
+/* Two column table with gutter */
+.twoCol { width: 100%; }
+.twoCol td { vertical-align: top; }
+.twoCol td.left { width: 50%; text-align:left; }
+.twoCol td.right { width: 50%; text-align:left; }
+.twoCol .gutter { padding: 0 20px; }
+
+/* Two column table with gutter - set width at 800px */
+.twoCol800 { width: 800px; }
+.twoCol800 td { vertical-align: top; }
+.twoCol800 td.left { width: 390px; }
+.twoCol800 td.right { width: 390px; }
+.twoCol800 .gutter { width: 20px; }
+
+/* inner body. The box around things like add and edit pages */
+.innerbody { border: 1px solid gray; padding: 10px; }
+.innerbody800 { border: 1px solid gray; padding: 5px; width: 798px; }
+
+/* Banner Include Section */
+.banner { width:100%; height:60px; padding: 0px; margin: 0px; }
+.banner tr { background: url(../images/bluefader_60.gif) repeat-x; }
+.banner .icon { padding: 5px; width:50px; text-align: center;}
+.banner .icon img { height: 40px; width: 40px; }
+.banner .main { }
+.banner .title { color:#DDDF37; font-size: 16px; letter-spacing:1px;}
+.banner .xtra { font-size: 12px; color: #EEE; letter-spacing:normal; }
+.banner .inst { color: #DDD; }
+
+/* Tabs Section */
+.Tabs { width: auto; font-size: 10px; margin-bottom: -2px; }
+.Tabs td A, table.Tabs td a, table.Tabs div.NoLink {
+	display: block; white-space: nowrap; padding-left: 2px; padding-right: 2px; margin-left: 2px; line-height: 20px; }
+.TightTabs TD A { padding-left: 3px; padding-right: 3px; text-align: center; font-size: 10px; min-width: 1em; }
+.Tabs td.Current a, table.Tabs td.Current a:visited, table.Tabs td.Current div.NoLink { color: white; background-color: #777; }
+.Tabs td select { color: white; font-size: 10px; }
+
+/* Options Top and Bottom Section */
+.optionsTop { width:100%; height:25px; padding:0px; margin:0px; }
+.optionsTop tr { vertical-align: bottom;  }
+
+.optionsTop .leftCapBlue { white-space: nowrap; width:9px; background: url(../images/cap-corner-tl-blue.gif) #5eb0e5 top left repeat-x; }
+.optionsTop .rightCapBlue { white-space: nowrap; width:9px; background: url(../images/cap-corner-tr-blue.gif) #5eb0e5 top right repeat-x; }
+.optionsTop .middleBlue { color:white; white-space: nowrap; text-align: center; background: #5eb0e5; vertical-align: middle; }
+.optionsTop .leftBlue { color:white; white-space: nowrap; text-align: left; background: #5eb0e5; vertical-align: middle; }
+.optionsTop .rightBlue { color:white; white-space: nowrap; text-align: right; background: #5eb0e5; vertical-align: middle; }
+
+.optionsTop .leftCap { white-space: nowrap; width:9px; background: url(../images/title_fade_round_left.png) top left repeat-x; }
+.optionsTop .rightCap { white-space: nowrap; width:9px; background: url(../images/title_fade_round_right.png) top right repeat-x; }
+.optionsTop .left { color:white; white-space: nowrap; text-align: left; background: url(../images/title_fade.gif) repeat-x;}
+.optionsTop .middle { color:white; white-space: nowrap; text-align: center; background: url(../images/title_fade.gif) repeat-x; }
+.optionsTop .right { color:white; white-space: nowrap; text-align: right; background: url(../images/title_fade.gif) repeat-x; vertical-align: middle; }
+.optionsTop .addbutton { white-space: nowrap; text-align: left; width:40px; background: url(../images/title_fade.gif) repeat-x; }
+.optionsTop .Tabs { width: auto; font-size: 10px; margin-bottom: -2px; }
+.optionsTop .Tabs td { vertical-align: bottom; }
+.optionsTop .Tabs td A, .optionsTop .Tabs td a:visited, .optionsTop .Tabs td A:active, .optionsTop .Tabs div.NoLink {
+	 color: #AAA; text-decoration: none; border: 1px solid #666; border-bottom: none; font-weight: bold; }
+.optionsTop .Tabs td a:hover { text-decoration: underline; color: white; }
+
+
+.optionsBottom { width:100%; height:25px; padding:0px; margin:0px; }
+.optionsBottom tr { vertical-align: top;  }
+.optionsBottom .leftCap { white-space: nowrap; width:9px; background: url(../images/title_fade_round_left_btm.png) repeat-x; }
+.optionsBottom .rightCap { white-space: nowrap; width:9px; background: url(../images/title_fade_round_right_btm.png) repeat-x; }
+.optionsBottom .left { color:white; white-space: nowrap; text-align: left; background: url(../images/title_fade_btm.gif) repeat-x; }
+.optionsBottom .middle { color:white; white-space: nowrap; text-align: center; background: url(../images/title_fade_btm.gif) repeat-x; }
+.optionsBottom .right { color:white; white-space: nowrap; text-align: right; background: url(../images/title_fade_btm.gif) repeat-x; vertical-align: middle; }
+.optionsBottom .addbutton { white-space: nowrap; text-align: left; width:40px; background: url(../images/title_fade_btm.gif) repeat-x; }
+.optionsBottom .Tabs { width: auto; font-size: 10px; margin-top: -2px; }
+.optionsBottom .Tabs td { vertical-align: top; }
+.optionsBottom .Tabs td A, .optionsBottom .Tabs td a:visited, .optionsBottom .Tabs td A:active, .optionsBottom .Tabs div.NoLink {
+	 color: #AAA; text-decoration: none; border: 1px solid #666; border-top: none; font-weight: bold; }
+.optionsBottom .Tabs td a:hover { text-decoration: underline; color: white; }
+
+/* colorful boxes in the add and edit and view pages */
+.bluebox { background: #cde5f6; margin-bottom: 10px; }
+.bluebox .bluetop { background: url(../images/cap_top-410-blue.gif) no-repeat; font-size: 14px; padding: 0; margin: 0; width: 410px; height: 20px; }
+.bluebox .bluetop270 { background: url(../images/cap_top-270-blue.gif) no-repeat; font-size: 14px; padding: 0; margin: 0; width: 270px; height: 20px; }
+.greenbox { background: #d7f1c4; margin-bottom: 10px; }
+.greenbox .greentop { background: url(../images/cap_top-410-green.gif) no-repeat; font-size: 14px; padding: 0; margin: 0; width: 410px; height: 20px; }
+.greenbox .greentop270 { background: url(../images/cap_top-270-green.gif) no-repeat; font-size: 14px; padding: 0; margin: 0; width: 270px; height: 20px; }
+.colorBoxPadding { padding: 5px; width: 400px; }
+.colorBoxPadding270 { padding: 5px; width: 260px; }
+.colorBoxIcon { width: 20px; text-align: right; }
+.colorBoxTitle { width: 380px; font-size: 14px; padding-left: 5px; }
+.miniHeader { font-size: 10px; font-weight: bold; margin: 5px 0 0 5px; width: 380px; }
+
+/* Random Colors */
+.red { color: red; }
+
+/* General Margin moves */
+.margintop10 { margin-top: 10px; }
+.margintop5 { margin-top: 5px; }
+.marginbottom10 { margin-bottom: 10px; }
+.marginbottom5 { margin-bottom: 5px; }
+.marginleft10 { margin-left: 10px; }
+.marginleft5 { margin-left: 5px; }
+.marginright10 { margin-right: 10px; }
+.marginright5 { margin-right: 5px; }
+
+/* Discussion Section */
+.dis_blue { background: #cde5f6; margin-bottom: 10px; width: 410px; }
+.dis_blue .blue_top { background: url(../images/cap_top2-410-blue.gif) no-repeat; font-size: 12px; padding: 0px 0px 0px 10px; margin: 0px; width: 410px; height: 15px; font-weight: bold; }
+.dis_blue .blue_bottom { background: url(../images/cap_bottom-410-blue.gif) no-repeat; padding: 0px; margin: 0px; width: 410px; height: 6px; }
+.dis_blue ul { padding: 0 0 0 20px; margin-top: 0; }
+.dis_blue li { padding: 5px 0 0 0; }
+.dis_blue .title, .dis_blue .title a { font-weight: bold; font-size: 14px; font-style:normal; text-decoration:none; color:black; }
+.dis_green { background: #d7f1c4; margin-bottom: 10px; width: 410px; }
+.dis_green .green_top { background: url(../images/cap_top-410-green.gif) no-repeat; font-size: 12px; padding: 0px 0px 0px 10px; margin: 0px; width: 410px; height: 20px; font-weight: bold; }
+.dis_green .green_bottom { background: url(../images/cap_bottom-410-green.gif) no-repeat; padding: 0px; margin: 0px; width: 410px; height: 6px; }
+.dis_green ol { padding: 0 0 0 20px; }
+.dis_green li { padding: 10px 0 0 0; }
+
+.green830 { background: #d7f1c4; margin-bottom: 10px; width: 830px; }
+.green830 .top { background: url(../images/cap_top-830-green.gif) no-repeat; font-size: 12px; padding: 0px 0px 0px 10px; margin: 0px; width: 410px; height: 20px; font-weight: bold; }
+.green830 .bottom { background: url(../images/cap_bottom-830-green.gif) no-repeat; padding: 0px; margin: 0px; width: 410px; height: 6px; }
+.green830 .add { white-space: nowrap; text-align: left; width:40px; }
+.green830 .title { width:100%; padding-left:5px; }
+
+.blue830 { background: #cde5f6; margin-bottom: 10px; width: 830px; }
+.blue830 .top { background: url(../images/cap_top-830-blue.gif) no-repeat; font-size: 12px; padding: 0px 0px 0px 10px; margin: 0px; width: 410px; height: 20px; font-weight: bold; }
+.blue830 .bottom { background: url(../images/cap_bottom-830-blue.gif) no-repeat; padding: 0px; margin: 0px; width: 410px; height: 6px; }
+.blue830 .add { white-space: nowrap; text-align: left; width:40px; }
+.blue830 .title { width:100%; padding-left:5px; }
+
+.smallfont { font-size:10px; text-decoration: none; font-style: italic; }
+
+.UserInfo { width:215px; vertical-align: top; padding-bottom: 10px;}
+.UserInfo .Wrapper { padding:10px 10px 8px 10px; background: url(../images/discussion_poster.gif) no-repeat; }
+.UserInfo .WrapperBottom { height:3px; background: url(../images/discussion_bottom.gif) no-repeat; }
+.UserInfo .PostedDate { font-size: 9px; font-style: italic; padding-top: 5px; }
+.PostArea .Buttons { text-align: right; }
+
+.PostArea { width:615px; vertical-align: top; padding-bottom: 10px;}
+.PostArea .Wrapper { padding:10px 10px 2px 27px; min-height:22px; background: url(../images/post_top.gif) no-repeat; }
+.PostArea .WrapperBottom { height:8px; background: url(../images/post_bottom.gif) no-repeat; }
+.PostArea .Question { font-size: 18px; color:blue; font-weight: bold; }
+.PostArea .Post { max-width:578px; max-height: 800px; overflow: auto; }
+.PostArea .Buttons { text-align: right; padding-top: 10px; padding-right: 5px; }
+.PostArea .Removed { font-weight: bold; font-style: italic; font-size: 10px; padding: 5px 0 5px 0; color: #888;}
+
+.PostButtons { text-align: right; width: 820px; padding: 10px 0 10px 0; }
+
+

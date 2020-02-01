@@ -1,0 +1,1825 @@
+"idWorkOrder"|"dtDate"|"idUser"|"idClient"|"idStatus"|"chrRegion"|"txtNotes"
+22|2002-01-03 14:22:07.903000000|2|4|5|"FL"|"No Invoice
+Maintenance Contract"
+27|2002-01-10 07:49:54.397000000|3|4|5|"FL"|"Covered by Maint. Contract"
+28|2002-01-10 07:52:07.600000000|3|12|5|"FL"|"-Ran ScanDisk on both C: and D: drives.
+-Ran Defragmenter on the D: drive.
+-Attempted to update the virus scan software via an AOL dialup coinnection. LiveUpdate terminated connection.
+
+Covered under Maint. Contract"
+29|2002-01-10 15:54:16.343000000|3|13|5|"FL"|"-Terminated both ends on new cable shot.
+-Installed NAV Corp Edition on the server.
+-Installed the NAV Client piece on 10 pc's.
+-Changed the NetBIOS names of 2 pc's and reassigned the shares that those machines hosted.
+
+Invoice #1380"
+31|2002-01-15 07:21:09.193000000|3|12|5|"FL"|"-Installed Norton Anti-Virus software
+-Manually updated virus signatures
+
+Invoice 1382"
+33|2002-01-18 11:03:46.453000000|2|13|5|"FL"|"Invoice 1386"
+38|2002-01-24 21:55:03.603000000|5|17|5|"CA"|"Invoice 1428"
+41|2002-01-30 18:42:08.427000000|3|21|5|"FL"|"Invoice 1420"
+42|2002-02-01 09:27:32.277000000|3|21|5|"FL"|"-Created a new backup job that runs weekday nights.
+-Prepared tapes to be used in the backup cycle.
+-Created a backup job that only backs up FundBalance data when executed and created an icon for it.
+
+Invoice 1430"
+48|2002-02-13 02:58:03.790000000|2|4|5|"FL"|"Both calls covered under maint agreement. Next call this month is billable."
+50|2002-02-14 15:00:32.040000000|5|2|5|"CA"|"Invoice 1445
+
+Marcus went to SF for this call.  Drive will be swaped or reapired with APS per manufac. warranty."
+51|2002-02-15 07:49:06.650000000|2|12|5|"FL"|"Covered under Maintenance"
+52|2002-02-21 15:52:55.073000000|3|21|5|"FL"|"Invoice 1463
+
+Changed pc's between the City Mgr's office and the City Mgr's Ass't office. Sat with both Jan Shockley and Celeste Richardville and got the correct user configuration. Created icons for the Utility Billing program (ie Accounts Payable, Cash Reciepts,Fixed Assets, etc)on both Jan's and Celeste's pc's.
+Formatted all backup tapes minus one(last successful backup). Labeled all tapes to reflect a two week backup rotation. Took three bad tapes out of the backup tape rotation. Created a user template and explained it to Joan Christy upon request from Jan Shockley. Deleted old/non-used user accounts from the Domain."
+54|2002-02-21 16:10:40.453000000|3|24|5|"FL"|"Invoice 1464
+
+Installed Norton Antivirus CE onto the server. Uninstalled antivirus clients from the client pc's. Installed Norton AV clients to the PC's. Configured server to retrieve updates from the Symantec site and clients retrieve updates from the local server. 
+Assisted Ellen with the management of her files and structured them in a logical format.
+"
+57|2002-02-26 11:57:27.170000000|1|25|5|"CA"|"Invoice 1495"
+58|2002-02-27 10:11:19.423000000|3|21|5|"FL"|"
+Invoice 1483
+Celeste is trying to print from a DOS based program to a network printer. Captured LPT1 and assigned it to the network printer. All print jobs spooled to LPT1 print to this printer.
+  Backup Exec jobs running but not initializing the tape drive. Started an erase job that runs but does not actively start or complete. Ensured positive connection between the tape drive and server. Rebooted the server and reinitialized the tape drive. Ran a UB backup test job that completed successfully.
+  Backup Exec job status show the job as failed, but the post-job report show success. Tape drive not responding to commands. Spec the server for alternate tape rive."
+64|2002-03-06 10:53:27.303000000|3|4|5|"FL"|"Invoice 1487
+Software ordered on 3/5.
+Software arrived on 3/7."
+65|2002-03-07 15:46:49.867000000|2|13|5|"FL"|"Invoice 1486
+Server is operational but only a temp solution.
+New Dell server ordered by Larry on 3/8."
+69|2002-03-12 12:08:12.963000000|3|21|5|"FL"|"Invoice 1498
+
+-Restamp Celeste's pc
+Could not complete on site, returned to office to load proper driver packages and software
+Configure printer to print to LPT1 from Win2k
+Installed General Ledger, Payroll, and Fixed Assets(FundBalance).
+-Installed Utility Billing(FundBalance) on Jan's PC.
+"
+71|2002-03-14 09:45:39.900000000|3|21|5|"FL"|"Invoice  1498
+
+SEA-STT28000N-RFT Due on 3/15.
+"
+72|2002-03-14 16:44:17.977000000|5|2|5|"CA"|"Invoice 1500
+
+Work performed on 2/27/2002"
+73|2002-03-17 04:04:53.543000000|2|4|5|"FL"|"Invoice 1499"
+74|2002-03-18 10:50:15.717000000|3|21|5|"FL"|"Invoice 1538
+Compaq Hard Drives ordered from eBay on 3/18.
+4/2 - Hard Drives placed in Lake Alfred safe."
+76|2002-03-26 05:29:08.467000000|2|21|5|"FL"|"Invoice 1538"
+77|2002-03-27 14:20:22.753000000|5|26|5|"CA"|"Invoice 1536"
+78|2002-03-27 18:32:55.937000000|3|13|5|"FL"|"Invoice 1537
+-Install Windows 2000 server
+-Install and configure Norton Anti-Virus Corporate Edition
+-Configure RAID1 (Drive Mirroring)
+-Add 9 users to new enviroment to allow for file sharing and backup
+-ReInstall NAV CE on 10 pc's
+-Install PS\2 mouse on Utility billing pc
+-Copy files from old server to new server
+-Configure BackUp Exec to complete a complete backup of the Data Directory.
+-Configure 10 pc's to map drive to the server"
+80|2002-03-28 06:47:16.283000000|1|27|5|"CA"|"Invoice 1547
+The work has been completed."
+82|2002-03-28 13:36:18.190000000|3|21|5|"FL"|"Invoice 1538
+-Move IMS server from rack to desk
+-Move PC from desk in Auditor room to server room desk
+-PC was having runtime errors and now cannot find server where it's data is located
+-PC does not recognize the serial mouse
+-Install Serial Mouse and cofigure pc
+-Rejoin Lake Alfred Domain with both IMS server and IMS PC
+-Create user account for BJ Coryer
+-Configure PC to work on the network
+_Troubleshoot both Jan and Celeste's PC(No sound when playing cd)"
+83|2002-03-28 14:00:00.470000000|3|24|5|"FL"|"-Linda was not logging into the domain and her drives were not being recognized and connected.
+-Ellen wanted me to confirm her email settings."
+84|2002-03-29 06:50:21.623000000|1|25|5|"CA"|"Invoice 1534
+The work has been completed"
+85|2002-04-03 00:04:35.253000000|3|13|5|"FL"|"Invoice 1537
+-Backups not completing due to incompatible tapes. The drive is a TR5 drive and Dundee has TR4 tapes. The drive is not backwards compatible.
+-Talked to Time-Warner and got information regarding RoadRunner email accounts. Configured Bill Strange's pc to use mlarry1@tampabay.rr.com email account."
+86|2002-04-03 18:22:18.970000000|3|26|5|"FL"|"Invoice 1535
+Support monitor adjustment process."
+87|2002-04-08 13:42:13.977000000|2|13|5|"FL"|"Invoice 1543"
+88|2002-04-08 13:47:18.997000000|2|28|5|"FL"|"Invoice 1545
+Had incorrect SMTP server name."
+89|2002-04-09 11:36:39.580000000|2|4|5|"FL"|""
+91|2002-04-10 16:30:15.607000000|2|24|5|"FL"|""
+93|2002-04-12 17:08:40.460000000|2|21|5|"FL"|"Invoice 1550"
+96|2002-04-17 11:57:52.507000000|6|29|5|"TN"|"Invoice 1580
+Setup router and troubleshooted filtering system"
+97|2002-04-17 14:44:24.603000000|3|26|5|"FL"|"Invoice #1552 "
+98|2002-04-18 07:40:48.993000000|1|25|5|"CA"|"Invoice 1575
+All work has been completed."
+99|2002-04-19 09:37:53.317000000|3|4|5|"FL"|"Invoice #1553"
+100|2002-04-25 11:28:48.463000000|3|24|5|"FL"|"
+Invoice 1576
+- Jodi is having problems accessing her Direct Deposit program.
+- Lisa cannot print  to Laser 2 through the terminal services client.
+
+Jodi was concerned about changing her phone number to access the First Union Direct Deposit web site. After assessing the situation I found that Jodi does not access the direct deposit pages via a modem, but rather via the LAN.
+Lisa was unable to print to Laser 2. I added a local pritner, captured the PRN0 port and assigned it to Laser 2. SHe is able to print now."
+102|2002-04-25 11:40:00.650000000|3|4|5|"FL"|"Invoice 1577
+-Both backups failed last nights job.
+
+The exchange failed due to the ARCserveIT account did not have the correct permissions. Gave the account logon as service permissions changed the account password in the services menu. Ran the backup.
+
+-The File server failed the backup due to CRC errors. Went back and re-ran the job. Talked to John to confirm that it might possibly be the tape is starting to go bad. Told Gail they might want to condsider replacing the tapes and starting with new tapes."
+103|2002-04-26 11:20:14.953000000|3|13|5|"FL"|"Invoice 1578
+Telephone support 5:15 - 5:45 on 4/25/02
+
+Change the NAV CE password to ""dundee"". Explain the functionality to Larry.
+Change password for Larry to network drive."
+106|2002-05-06 10:42:33|2|4|5|"FL"|"1590
+Gave tapes to Andrea"
+107|2002-05-11 05:27:45.373000000|2|21|5|"FL"|"Invoice 1588"
+108|2002-05-16 11:45:15.507000000|3|21|5|"FL"|"#1597
+
+-Custom make a cable for BJ Coryer.
+ BJ had moved his office around and now his desk is on the other side of the room where there is no data jack. Made a 26' cable with boots and metal ends.
+-Check status of tape backups.
+ Checked status of tape backups and ensure they are running and completing.
+Backup job failed on verify.
+-Users cannot login to network. Some server functions are not running/accessable.
+ Lake_Alfred_1(NT3.51) made itself the PDC for the domain when Lake_alfred_2(NT4) was rebooted. User mgr was using the SAMsdb for authentications and server-level services were trying to run from the NT3.51 server. Shut Lake_Alfred_1 down. Lake_ALfred_2 became the PDC. USers and services are now accessible/functioning."
+109|2002-05-16 20:36:01.490000000|5|25|5|"CA"|"#1593"
+110|2002-05-20 04:27:29.980000000|3|13|5|"FL"|"#1594
+-Larry wanted me to explain the reason for passwords and what resources they are for and where they are maintained.
+Explained share-level access/Administrator control/PC and network passwords."
+111|2002-05-21 13:20:42.353000000|3|21|5|"FL"|"#1598
+-Celeste is unable to connect to her Eastpolk.net email.
+-BJ needs a new phoneline for dialup.
+Larry at Lake Alfred is taking care of the physical cable.
+-Printing problems
+Sylvia is having problems printing to the 8150. Isolated the problem to the printer setup on the server.  Looked in the printer folder on the server and there were no printers defined. Restarted the server and the printers became available."
+113|2002-05-21 13:58:32.163000000|6|29|5|"TN"|"#1595
+Troubleshooting.  Re-connected rack devises at middle school and assisted users in re-connecting to the server."
+114|2002-05-23 13:59:36.343000000|2|13|5|"FL"|"1624"
+116|2002-05-23 20:41:20.957000000|3|21|5|"FL"|"1620
+The server had a Dr Watson error for the spools.exe file. The spooler service had stopped. Restarted the spooler service, ensured the users were able to print documents.
+Downloaded the NAV CE updates to CD at office. Ran the CD locally and manually updated the AV protection to current levels. The clients are retrieving the updates also."
+117|2002-05-23 20:46:20.353000000|3|21|5|"FL"|"1621
+Time-Warner was supposed to be on-site for cable modem installation between 2pm and 4pm on 5-23-02. Installer called and told client that he would be late. BJ called Time-Warner and they rescheduled for 10am - 12pm on 5-24-02.
+Cable modem installed. Installed router. Disabled DHCP on Lake_Alfred_2, clients are drawing NAT address from router. Router address is 192.168.0.2 Lake_Alfred_2 is .1. Will modify this at a later date. Installed one of two security rollups/patches on Lake_Alfred_2. Reinstalled the HP LaserJet 8150 printer in hopes of solving some of the server/printer issues. Uninstalled/reinstalled NAV CE.  Updated to current version with current virus definitions. All clients are getting definitions from Lake_Alfred_2. Lake_Alfred_2 is the primary server for the NAV group. It goes out on sunday mornings at 8am for new definitions."
+120|2002-05-24 16:52:46.870000000|5|25|5|"CA"|"1619"
+121|2002-06-02 04:12:17.047000000|2|31|5|"FL"|"1623"
+122|2002-06-03 05:57:52.400000000|3|21|5|"FL"|"1622"
+124|2002-06-05 05:40:05.043000000|8|27|5|"CA"|"1672"
+125|2002-06-05 05:59:53.423000000|8|27|5|"CA"|"1672"
+128|2002-06-07 20:02:24.613000000|3|4|5|"FL"|"Installed new videos card into Tierso's pc. Upon boot got a beep code that defines video card not found(1 long beep, 2 short beeps according to the motherboard/BIOS mfg). Contacted Gateway tech support. I am awaiting an email response form their tech support staff for resolution or RMA information."
+129|2002-06-07 20:08:09.260000000|3|4|5|"FL"|"Monthly PM scheduled.
+-Updated both servers with the latest security patches from Microsoft.
+-All workstations were updated with the latest patches also. I performed the updates on Tierso, Andrea's, Gail's and the extra pc. Chris and Glen performed the updates to their respective workstations."
+131|2002-06-07 20:19:07.633000000|3|21|5|"FL"|"Inv#1635
+Backup did not complete.
+- The backup successfully completed. The monitor was not responing when I arrived. Forced a quit of the program. Restarted BackupExec monitor and when it refreshed the backup had run successfully and successfully completed a verification.
+-Install NAV 2002 on Valerie's oc.
+Installed the software and performed a LiveUpdate over the dialup connection.
+Performed a full system scan.
+-Failed backups
+Backup failed while it was trying to backup files and folders that had been removed. Reconfigured Backup Exec to exclued the folders that had been removed.
+Backup failed on verfication.
+-Virus in Quarantine
+Searched for files that had been quarantined. They were not in quarantine or in the directories that they originally in. They had either been removed or had been an attachment in an email. Ran KlezFix on Jan's pc twice. It could not perform it's unction due to lack of resources on Jan's pc. Tried to execute a system scan on Jan's pc. It could not complete it's task due to lack of system resources."
+134|2002-06-11 05:17:01.507000000|3|13|5|"FL"|"Inv#1638
+Larry was having problems connecting to the internet. He told me that Time-Warner had been involved already. They came out and tested te line and said everything was ok. but Larry was still having connectivity issues. I sat at the server and tested connectivity and was able to browse the local network and the internet. Told Larry of my findings and he did the same thing. Connectivity is not an issue at this time."
+136|2002-06-12 05:20:41.210000000|3|28|5|"FL"|"1656"
+137|2002-06-17 07:12:07.170000000|3|21|5|"FL"|"1658
+-Restamped Jeff(permits) pc with Win98. Loaded OS, Nav, and Office97.
+-Purchased printer cable for Jeff with Authorization from BJ. 6-17-02
+-Permits pc having problems with printer and modem. Line failed testing.
+-Installed network switch in PD and Installed KVM switch.(6/25/02)"
+139|2002-06-19 14:03:50.377000000|3|21|5|"FL"|"1678
+-Server arrived 6-18-02
+-Server NOS installed and patched 6-19-02
+-Server delivered to location 6-21-02
+-Started installation with assistance from Fundbalance 6-21-02
+-Installed server into rack at locations 6-22-02
+-6-27-02 - Moved rack , reinstalled server(flush mount, resolved printing problems, resolved DHCP issues, Reconfigured DHCP)
+
+"
+141|2002-06-25 14:57:44.207000000|5|2|5|"CA"|"1660"
+142|2002-07-01 21:21:31.613000000|5|33|5|"CA"|"1671"
+143|2002-07-02 06:08:52.280000000|1|42|5|"CA"|"1718"
+145|2002-07-09 20:33:41.820000000|3|28|5|"FL"|"1679
+7-8-02
+-Install new server
+-Move network printer and copier to new server
+-Move data over from old server to new server
+-Created local users on new server(Win2K)
+-Rebuild old server as Win2K workstation"
+146|2002-07-09 20:37:29.370000000|3|21|5|"FL"|"1682
+3-9-02
+-Tami and BJ are having problems with payroll linking into the General Ledger. Talked with FundBalance about OS compatibility. It was stated that 9x/ME clients have known issues with the FB software. Talked with John and we're going to install a W2K pc and load FB on it to test stability and functionality.
+"
+149|2002-07-15 12:47:29.373000000|2|24|5|"FL"|""
+150|2002-07-17 03:57:16.927000000|2|4|5|"FL"|"1714"
+151|2002-07-17 04:13:31.197000000|2|4|5|"FL"|"1685"
+152|2002-07-18 16:16:47.070000000|5|2|5|"CA"|"1717"
+153|2002-07-24 05:18:19.547000000|3|21|5|"FL"|"1683
+7-22-02
+-Send UB files to Lynn at fundbalance
+ Zipped up the files and contacted Fundbalance used Webex to transfer the files to Fundbalance.
+-Joan is having problems getting into IMS.
+-Rebooted Lake_Alfred_1. Restarted the 95 client pc."
+154|2002-07-24 05:25:43.867000000|3|12|5|"FL"|"7-23-02
+Installed Powerpoint 2000 on the server. Created a powerpoint directory on the data share on the server. Moved slideshow from pc to the server. Attached tv output device to server to allow for presentation to be viewed across their cable network. Showed Rita how to access the slideshow from her workstation."
+155|2002-07-25 14:27:13.503000000|2|21|5|"FL"|"
+1682
+Entire network was rendered inop because of a lightning strike."
+156|2002-07-26 05:35:04.003000000|3|24|5|"FL"|"1713
+Lightning strikes in the area knocked out cable modem and possibly blew the hub. I replaced the hub and network functionality was tested and back to normal."
+157|2002-07-29 09:42:10.507000000|2|13|5|"FL"|"1716"
+158|2002-07-29 09:58:31.370000000|2|4|5|"FL"|"1714"
+159|2002-07-30 14:45:20.580000000|3|21|5|"FL"|"1721
+7-29-02
+Restamped Kelly's pc with Win2K.
+Loaded Fundbalace and Schlumberger(handhelds)
+7-31-02
+Restamped Sylvia's pc
+Loaded Fundbalance
+8-1-02
+Restamped Tami's old pc. Loaded all of the available Fundbalance applications.
+8-2-02
+Resolved printing problems for Sylvia and Kelly(UB and Payroll). Installed temp-bdc for user account replication for rebuild.
+Rebuilt server tonight. Will have to return to finish periphial installation tasks
+8-6-02
+Installed modme and configured pcanywhere to use it for remote access.
+Move the Compaq pc accross the street to Dick Beach's office. Install and moved his files from his old pc. Configured outlook express to retireve his email via dialup ISP.
+"
+160|2002-07-30 14:48:39.303000000|3|28|5|"FL"|"1715"
+163|2002-08-06 14:36:42.050000000|1|27|5|"CA"|"1727"
+164|2002-08-08 06:58:26.360000000|6|29|5|"TN"|"1733"
+165|2002-08-08 10:42:55.110000000|1|27|5|"CA"|"1727"
+166|2002-08-08 13:58:48.777000000|2|35|5|"FL"|"1732"
+167|2002-08-08 23:55:16.793000000|5|25|5|"CA"|"1731"
+169|2002-08-12 10:39:54.383000000|2|21|5|"FL"|"1743"
+170|2002-08-14 13:55:31.573000000|2|24|5|"FL"|"1745
+
+8-19-02
+Assessed damage caused by lightning .
+Replaced Linda Weldon's network card.
+Replaced Switch
+Replaced Router
+"
+171|2002-08-15 18:23:17.710000000|2|21|5|"FL"|"1743"
+173|2002-08-23 05:07:11.937000000|3|21|5|"FL"|"1743"
+174|2002-08-27 01:11:26.583000000|3|21|5|"FL"|"1774
+
+9-3-02:
+BJ wanted tech assistance when he was going to place an order for some Dell equipment.
+9-4-02:
+Replaced NIC in IMS server. There are no NT3.51 drivers for the NetGear card so I used an extra Magitronics card that was onsite."
+176|2002-08-27 01:14:23.210000000|3|35|5|"FL"|"1771"
+177|2002-08-29 19:18:28.060000000|3|12|5|"FL"|"1770"
+183|2002-09-13 08:29:02.060000000|2|21|5|"FL"|"1787"
+184|2002-09-13 08:31:26.247000000|2|4|5|"FL"|""
+185|2002-09-19 20:34:18.537000000|3|24|5|"FL"|"1815
+9-18-02
+Users stated that the network is running slow. Ping times from the server to the workstations is less than 10ms(Normal). Users stated that the only program running slow is QuickBooks.
+Informed users that I would inform John and see if he knows how to make QuickBooks run faster.
+Installed G95 software on Lisa's pc. Setup desktop scanning for Lisa.
+Lisa was having problems with times on appointments being off by and hour. Her pc was set to Central time zone, adjusted to Eastern.
+Printing from Quickbooks to Laser2 would stop and not restart. Captured LPT1 to \\server\laser2."
+188|2002-09-25 16:13:40.330000000|3|39|5|"FL"|"1814"
+189|2002-09-25 16:32:06.563000000|5|40|5|"CA"|"1791"
+190|2002-09-26 18:01:38.133000000|2|28|5|"FL"|"1792"
+191|2002-09-26 18:02:56.977000000|3|21|5|"FL"|"1828
+9-30-02
+-Installed Office2K on finance Directors laptop. Installed laptop into office. Removed old pc for redistribution(city mgr).
+-Resolved issue with blinking lights on Dell server. Using server administrator cleared log files.
+-Prepped PD pcs for installation.
+10-1-02
+-Restamped counter pc with Win2K/Office2K.
+-Installed 1 PC in the PD. Another vendor is going to install the PD software(Law Enforcer)on their new pc's.
+-Assess Waste Water Mgmt pc. Power supply is bad. Suggest replacing the pc.
+-Work with Fundbalance to get Capital Assets install on the FB server. It was not installed initially due to FB stating that there was no license purchased for it. LA did purchase a license for it.
+10-2-02
+-Installed Capital Assets on the FB Server
+-Connected City hall into the network.
+10-3-02
+-Rewired data jack in City Clerks office to correct pin out.Made a 12' cable for city clerk. Installed network card in City Clerks PC.
+-Rewired data jack in Permits office. Made a 6' cable for Permits. Installed network card in Permits PC. Joined it to the Lake_Alfred domain
+-Installed Capital Assets on the City Mgr, Finance Director, and Finance Mgr's pcs.
+-Installed City Mgr's new pc.Removed the old pc.
+10-4-02
+-Remove CD-RW from City Mgr's old PC. Install CD-RW and CD-Creator onto City Clerks pc.
+-Join Permits pc to network
+-Install FL legislature software on Finance Director and City Clerks PC
+-Install Payroll onto HR pc.
+-Assess issues with Law Enforcer software with USA Computer tech.
+10-7-02
+-Remove Office 2000. The Law Enforcer program will not work with Office2K. Install Office97. Copy the files from PR3 to the local disk. Create the shortcut and give all users permissions to use it.
+INCOMPLETE-LAPD CD backup. Define what needs to be backed up and then create a backup job to the CD-RW.
+10-8-02
+Copy the leserver.lec file from the LAPD server to Lake_Alfred_2 to be backed-up on the tape.
+GL was having problems scrolling through large databases(between32K and 52K entries. The DB's are too large for the scrollbar to parse that much information.
+Install PrintMaster for Valerie. Made Valerie a Domain Admin so she can install programs, etc.
+"
+195|2002-10-01 14:33:21.550000000|2|39|5|"FL"|"1827"
+196|2002-10-03 02:51:02.957000000|2|35|5|"FL"|"1829"
+197|2002-10-09 03:19:52.780000000|2|12|5|"FL"|""
+199|2002-10-13 12:59:49.700000000|3|21|5|"FL"|"1844
+10-11-02
+- Training session with Donna. Covered general network administration topics.
+- Worked with FundBalance to reinstall Utility Billing program and upgrade the Payroll program.
+10-17-02
+- Move Dick's pc to Jeff's office and setup.
+- Install new Dell into Dick's area
+- Move Jeff's monitor into Dick's area.
+10-22-02
+- Sylvia is unable to load/unload handhelds. * file was not recreated during the UB reinstallation. Called FB and waited for tech to return call. When the FB tech called we recreated the file that allows UB to  read the handhelds.
+- Kim is not able to change records in the Employee Master menu in Payroll. Called FB and awaited a response. FB tech called nad told me to install GL and that will fix the issue. Installed GL and the issue persisted. Called Jason at FB and we created and ODBC connector(DSN) between payroll and the GL on Kim's pc."
+202|2002-10-18 05:55:37.003000000|1|42|5|"CA"|"No Charge to Apple for problems onsite.
+
+All work has been completed on this work order."
+203|2002-10-23 22:18:12.453000000|3|21|5|"FL"|"1876
+10-23-02 
+-Attempted to install the Business Licensing software from FundBalance. Was unsuccessful at this time. Called Jason, with FB, and he is going to assist with the installation.
+-Installed FL Legislature and local printer for Jeff
+10-24-03
+-Installed the Business Licensing Software on the server BJ's laptop, Jan's and Valerie's PC's
+-Waste water pc is running extremely slow. Svchost process is utilizing all available CPU time for unknown process. Reload using Dell Restore cd.
+10-25-02
+Restored Waste Water PC from Restore disks.
+10-28-02
+Contact Fundbalance regarding Payroll ODBC errors. Left VM for Jason Rinehart. Jason returned my call Monday(10-28-02) afternoon.
+10-29-02
+Called Jason(FundBalance)in regards to the ODBC errors in Payroll. Compacted Payroll DB. This corrected this issue.
+
+"
+205|2002-10-24 23:00:14.610000000|3|13|5|"FL"|"1845
+
+10-24-02
+Install new Dell Workstations. Backup user files and mail settings. Created user folders on the server under F:\users\username. Configured printer to be shared accross network and created local users. Installed Office2K on 1 workstation."
+206|2002-10-26 08:33:21.707000000|3|28|5|"FL"|"1878
+10-25-02
+Create 5 new users
+UnInstall PCL drivers and Install PS drivers for Sharp Copier
+Analyze issues on Laptop, reception pc, and Susan's PC.
+
+10-31-02
+1 Hour added to time to cover mileage and toll charges.  JAG"
+211|2002-11-05 08:13:52.563000000|1|25|5|"CA"|"2022
+All work except for Spelling changes is finished. Please also adjust WineBank monthly charge. Please contact me if you have any questions - Arthur Gressick"
+212|2002-11-05 14:46:14.657000000|2|13|5|"FL"|"1880"
+213|2002-11-06 02:55:06.423000000|3|35|5|"FL"|"1881"
+214|2002-11-08 05:09:06.073000000|3|21|5|"FL"|"1903
+
+11-7-02
+Had a meeting with BJ and the Public Safety Director for Lake Alfred. Gathered information, put information into PDF format."
+219|2002-11-20 03:48:01.033000000|3|26|5|"FL"|"DO NOT BILL THIS!!  LESA HAS BILLED VIA PROJECT INVOICE."
+220|2002-11-25 16:35:41.037000000|2|39|5|"FL"|"1943"
+221|2002-11-28 10:30:30.350000000|3|12|5|"FL"|"1935"
+222|2002-12-01 05:30:28.900000000|3|21|5|"FL"|"1965
+12-15-02
+-Email UB data file to fundbalance
+-Vicki cannot print /preview reports from Payroll. Called Jason at Fundbalance. Uninstall reinstalled PA twice while changing the user rights. User still unable to print the required reports.
+12-17-02
+Called Jason and Matt at Fundbalanceto assists in resolution for Vicki's issues. Changed user rights on the server and the local pc.
+"
+223|2002-12-03 20:36:35.917000000|1|42|5|"CA"|"2058"
+225|2002-12-04 15:42:26.140000000|5|46|5|"CA"|"Per Lesa - this is being billed on January Monthly Management Bill"
+226|2002-12-08 00:17:49.917000000|3|47|5|"FL"|"1963
+12-5-02
+-Modified desk to allow cable to pass through desk.
+-Added user/computer to the Domain
+-Set NTBackup to perform backup.
+-Creted Users folder on the server
+12-6-02
+-Installed Office for Sylvia
+-Installed FundBalance Apps on Sylvia's pc
+-Installed network printer for Sylvia
+-Installed BackupExec on server
+-Discovered that tape was defective
+12-15-02
+-Deliver tapes to Polk City
+-Erase tapes for use with BackupExec
+-Set schedule for backup"
+230|2002-12-10 05:28:56.337000000|3|24|5|"FL"|"1967
+12/9
+-Removed bad video card from Lois' pc.
+-Installed replcaement card from Gateway.
+-Removed bad video card from second pc.
+-Replace Netgear Cable/DSL Router
+
+12-27-02
+-Network responding very slowly. HP MultiFunction Printer software removed from the 2 pcs that were having issues. Looking through Microdsoft site for assistance."
+232|2002-12-11 14:57:33.927000000|5|17|5|"CA"|"1951"
+234|2002-12-12 15:29:24.590000000|2|39|5|"FL"|"1962"
+236|2003-01-01 05:06:08.910000000|3|47|5|"FL"|"1966
+12-29-02
+Attach color laserjet to Sylvia's pc.
+Load drivers and give Sylvia local admin rights."
+239|2003-01-03 13:40:29.197000000|2|24|5|"FL"|"1994"
+241|2003-01-06 16:26:36.680000000|2|53|5|"FL"|"2015"
+242|2003-01-08 13:47:14.917000000|2|35|5|"FL"|"1995"
+243|2003-01-10 13:33:25.357000000|2|39|5|"FL"|"2/17
+-Setup Firewall for VPN / Remote access
+-Update firewall firmware
+-Install unlimited node support
+2/18
+-Complete firmware installation
+-Install NAV CE on server
+-Install Active Directory on server
+-Create user accounts and folders
+3/10
+-Ron having trouble Synching palm with Outlook. Uninstalled palm software, reinstalled Palm software. No Conduits created during reinstallation. John instructed Ron to use original palm software from home that came with the handheld.
+-2 win98 pc's in plant. Attached the one in Tom's office to allow for removal of files. The one in Dave Anderson's office will not connect to the network. It will get to the internet but not the LAN/AD. Changed IP config and still not connecting. The pc is a Siemens pc.
+3/17
+Nathan is having an issue keeping connected to the file shych share on the server.
+3/28
+Load Exchange client on Ron, Mike, and bobby's pc. Explain / train exchange and it's features.
+5/2
+backup failed on verfiy on Roy's pst file on the server. Moved the file to his local machine.
+Cannot access welder from outside network. Surveyed the welder pc setup and the router and fibre transciever had fell from the inside of the cabinet and were not functioning correctly. Spoke to DaveAnderson regarding permanent mounting and addition of a fan. Restored to original state and accessed from Dave Anderson's pc.
+5/5
+Found IPv6 dev edition running on Richard White's pc. Possible cause for people dropping off the server. Removed IPv6 and continue to monitor.
+5/6
+Inserted ""A"" record into DNS pointing to aerconfl webpage IP address. Confirmed that users can access the site by calling Bobbie.
+
+6/11
+There is no network connectivity between the Admin bldg and the plant. Kristen cannot access the network. Moved the jumpers for both Kristen and the plant to different ports on the switch in the admin bldg. Both Kristen and the plant came online."
+244|2003-01-13 17:48:59.487000000|2|13|5|"FL"|"2016"
+245|2003-01-15 14:49:49.820000000|3|21|5|"FL"|"2059
+1/15 
+- Install new pc into City Cerks office
+- Move pc into the City Clerks ass't area
+- Move old city Clerk's ass't pc to admin building
+1/16
+- Move files from old City Clerk's ass't pc to network drive
+1/20
+-Backup failed due to tape being locked. Went over process of how to get back on schedule with BJ and instructed him as tobackup procedures
+-LawEnforcer program not functioning properly. Made a copy of LEserver.lec file the used MS Access to repair the existing LEserver.lec file."
+246|2003-01-15 16:51:36.930000000|3|21|5|"FL"|"2045
+1/20
+-Install cable modem/router at Public Works Dept. 
+-Make 3 6' patch cables. 
+-Terminate cables. 
+-Setup 3 email accounts and tested to ensure correct functionality
+-Install 3 network cards.
+-Troubleshoot Hank's pc issues.
+
+1/21
+-Install cable modem/router at Waste Water Dept.
+-3 6' patch cables
+-Installed 1 netowrk card into Mike's pc
+-Installed 3 wall jacks. Reconfigured 2 phone jacks to support new wall plates
+-Setup 4 email accounts and tested to ensure correct functionality
+
+
+
+
+Mileage:
+Office-> HomeDepot Wall Biscuits
+HomeDepot->Lake Alfred PWD
+LA PWD-> Lowe's
+Lowe's->HomeDepot
+HomeDepot->Staples
+Staples->LA PWD"
+248|2003-01-15 16:56:17.133000000|3|47|5|"FL"|"2046
+1/15
+-Unpacked accessories. Cash Drawer,reciept printer, handheld meter reader, and laser scanner.
+-Began installation. Contacted Ithaca for tech assistance.
+1/16
+-Contacted FB for assistance. Pc has a single parallel and single serial port. Need to have 2 serial ports to accept the different devices.
+1/20
+-Purchased PCI Serial card for Sylvia's pc
+1/22
+-Installed PCI Serial card into Sylvia's pc and configure.
+-Move color laserjet from Sylvias desk to copy room. Attach to the server and network to allow for network use.
+-Contacted FundBalance for installation support for laser scanner.
+
+1/23
+-Completed Installation.
+-All devices work properly and have been tested except the meter reader.
+-Generated and emailed an export file to Neptune for analysis."
+249|2003-01-17 10:57:51.680000000|2|26|5|"FL"|"2017"
+250|2003-01-20 04:59:34.383000000|3|26|5|"FL"|"2358"
+252|2003-01-22 20:44:02.383000000|3|4|5|"FL"|"2023"
+253|2003-01-24 03:32:12.607000000|3|13|5|"FL"|"2062
+
+1/23
+-Clean history, temp internet files, and misc files from Matt's pc.
+-Scheduled scan disk and defrag to run at night
+-Explained to user the benifits of a memory upgrade and updating his operating system from Win95."
+254|2003-01-30 09:44:27.520000000|3|24|5|"FL"|"
+2060
+1/27
+OnSite to talk to Sgt Waters regarding his requirements for a new FCIC pc and printer.
+
+1/28
+Made contact with CDW-G. Acquired information from them and Dell. Emailed info to Sgt Waters.
+
+1/31
+Added user Wendy Smith.  Assisted with file conversion for Lisa."
+255|2003-02-02 19:07:01.877000000|1|25|5|"CA"|"2070"
+257|2003-02-04 11:57:54.783000000|2|21|5|"FL"|"2221
+2/17
+-Install PC for KIM in HR. Install Fundbalance Apps. Successfully tested FB Apps.
+-Install PC at Utilities for Mike. Configure mail.
+-Backup not functioning properly. CRC errors and other misc errors."
+258|2003-02-05 14:37:21.743000000|2|47|5|"FL"|"2222"
+259|2003-02-06 10:36:07.157000000|5|40|5|"CA"|"2069"
+260|2003-02-07 11:35:47.270000000|2|53|5|"FL"|"2072"
+261|2003-02-07 23:32:29.853000000|3|24|5|"FL"|"2/21 
+Lisa is having problems printing from UBPro. The resolution to this issue is in the Company setup, options. Used a different font, Courier New so that 3 Door hangers would fit per page."
+263|2003-02-12 16:20:54.030000000|2|31|5|"FL"|"2071"
+264|2003-02-15 12:26:41.193000000|1|25|5|"CA"|"2227"
+266|2003-02-19 08:00:12.630000000|5|42|5|"CA"|"Lesa will bill on EDU Monthly"
+267|2003-02-27 10:01:54.487000000|5|42|5|"CA"|"Lesa will bill on EDU monthly."
+268|2003-02-27 10:02:02.203000000|2|13|5|"FL"|"2223"
+270|2003-03-03 06:56:00.693000000|1|42|5|"CA"|"2437
+Please see bob about the date This was for March/April event."
+273|2003-03-10 16:32:17.800000000|2|26|5|"FL"|"2292
+
+Files were recovered by Data Recovery service, however, most Office files were corrupt.
+Office Suite was purchased by techIT to recover corrupted Office files.
+We have Debbi's okay via email for ""whatever it costs"""
+274|2003-03-10 16:34:24.943000000|5|2|5|"CA"|"2249"
+275|2003-03-10 20:19:49.613000000|3|21|5|"FL"|"3/10
+-Cannot Login to payroll. ODBC error upon login. Contacted Fundbalance and compacted Database. Payroll operating normally.
+-Tape backup failed Friday's backup. Tape showed bad by Backup Exec. Exchanged tapes. Relabelled new tape to Monday #1. Ran successful backup."
+276|2003-03-11 21:24:12.523000000|3|47|5|"FL"|"2296
+
+3/10 - Restore all files in the UB directory. Restore from yesterdays backup.
+3/27 - Troubleshoot internet issues. Resolved issue. Message at TimeWarner states that all users in area are having issues connecting to internet."
+278|2003-03-14 02:49:39.437000000|2|24|5|"FL"|""
+279|2003-03-19 22:17:20.110000000|3|13|5|"FL"|"2265"
+280|2003-03-19 22:19:22.360000000|3|12|5|"FL"|"2264"
+281|2003-03-20 22:22:19.297000000|3|26|5|"FL"|"2281
+3/20 
+Assisted Joe with the movement electrical and mechanics of the camera controls in the post show at KIPL.
+the rear screen was not rotating to it's full angle and it was discovered that it was not an electrical issue, but a mechanical error which caused this. Joe then filed down a brace to allow for the freedom of movement to correct the issue."
+282|2003-03-21 09:48:52.830000000|2|58|5|"FL"|"2313"
+284|2003-03-26 08:50:42.477000000|2|12|5|"FL"|"2264"
+285|2003-03-31 08:22:34.463000000|3|4|5|"FL"|"2294"
+286|2003-04-05 10:56:59.850000000|2|12|5|"FL"|"2299"
+288|2003-04-05 11:02:47.897000000|2|21|5|"FL"|"2343
+4/14
+PC in the officers area at Lake Alfred is having issues with logging in. It is taking an excessively long time to complete the login process. I added the IP addess of their local server and that corrected the problem.
+4/21
+On-Site with IPTM rep.
+Install Wireless AP and 1 adapter,3 More adapters on order.(Authorized by Chief)
+4/22
+UpGraded Dispatch pc to XP Pro. Law Enforcer not functioning propoerly.
+4/23
+Installed 128Mb RAM into Records pc. Exchanged HDD with old dispatch HDD to access radio logs in LawEnforcer"
+289|2003-04-07 15:01:42.070000000|2|35|5|"FL"|"2300"
+290|2003-04-11 02:30:48.200000000|2|28|5|"FL"|"2310"
+291|2003-04-13 07:02:31.740000000|2|39|5|"FL"|"2308
+4/15
+Assisted German Engineer with setting up the IP configuration of the PLC and the welding machine for remote access ia the AerconFL firewall and PCAnywhere."
+292|2003-04-15 23:40:18.963000000|3|24|5|"FL"|"2344
+4/14
+Added alternate email address' for the users at Eagle Lake. Insight America who used to host the email has changed the servers that it uses."
+293|2003-04-15 23:44:23.650000000|3|47|5|"FL"|"2311
+4/14
+Restored UB files for Sylvia. Sylvia ran a process that adjusted the numbers and I had to restore again."
+294|2003-04-16 08:55:48.983000000|2|31|5|"FL"|"2309"
+297|2003-04-28 20:36:33.013000000|3|28|5|"FL"|"2346
+4/28
+-Changed username to reflect changes required to connect to K2 Services dial-up.
+-Reconfigured SMTP server setup on the proxy server.
+-Reconfigured setup of SMTP sevice on client pc.
+-Moved DesignJet drivers from CAD workstation to CAD server.
+- Attached notebook to Sharp printer/copier"
+299|2003-04-29 21:22:10.340000000|5|17|5|"CA"|"2350"
+301|2003-05-02 19:47:22.807000000|3|47|5|"FL"|"2406
+5/2
+Sylvia's computer running slow. Printing seperator sheet with 3 characters on it.
+-The IP address of the server changed. Made adjustment to sylvia's ip settings. Pc functioning properly.
+-Printing &#9786;!!!! on seperator sheet printing from FundBalance. The printer is a color laserjet 4550 not supported by fundbalance. Using laserjet 4 drivers. Made some changes in fundbalance, not printing characters now."
+302|2003-05-02 19:58:12.167000000|3|58|5|"FL"|"2351"
+303|2003-05-02 19:59:34.870000000|3|21|5|"FL"|"2399"
+305|2003-05-09 09:57:20.193000000|3|24|5|"FL"|"2401"
+306|2003-05-10 08:28:05.983000000|2|53|5|"FL"|"2360"
+307|2003-05-13 08:01:08.433000000|3|21|5|"FL"|"2399"
+309|2003-05-13 13:55:33.417000000|3|26|5|"FL"|"All 15 kiosks are fully operational with the latest Ghost image."
+311|2003-05-18 22:50:52.067000000|3|58|5|"FL"|"2371"
+312|2003-05-19 08:04:56.533000000|3|31|5|"FL"|"2372
+5/19
+Mary is having problems sending email.
+-Walked with user through email configuration. Had user send and recieve a test email. User had an email in the outbox that wouldn't send. User deleted email from Outbox and successfully sent eamil."
+314|2003-05-22 21:32:56.013000000|3|4|5|"FL"|"2404"
+315|2003-05-22 21:38:10.890000000|3|58|5|"FL"|"2398
+5/21
+Server and Tina's pc had same IP address. Power had bounced at location earlier this week. ReAssigned server IP address and changed Ip information in PCAnywhere."
+317|2003-05-27 20:07:57.337000000|1|42|5|"CA"|"2439"
+318|2003-05-27 20:20:43.713000000|1|42|5|"CA"|"2437"
+319|2003-05-30 12:57:18.270000000|2|26|5|"FL"|"2402"
+321|2003-06-02 11:54:47.887000000|5|2|5|"CA"|"2419"
+322|2003-06-04 05:14:49.727000000|3|24|5|"FL"|"2448"
+323|2003-06-05 17:41:08.890000000|3|21|5|"FL"|"2471"
+324|2003-06-05 17:46:43.063000000|3|47|5|"FL"|"2450
+6/5
+Linda's pc is running slow and not responding. Removed unauthorized software(mainly screensavers) and searched for performance issues."
+325|2003-06-08 17:45:20.513000000|3|58|5|"FL"|"2447"
+327|2003-06-10 08:05:04.710000000|3|26|5|"FL"|"2427"
+329|2003-06-12 20:23:52.703000000|3|35|5|"FL"|"2429
+6/11
+-Erica cannot connect to shared printer.
+  Ensure solid USB connection, reshare the printer. Sucessful print from Erica's pc.
+-BugBear Virus Detected on Beverly's PC.
+PC has current AV definitions. Define how virus came into the network(via email). Ran BugBear removal tool from SARC.
+-Microsoft Updates needed
+Ran Windows Update on Beverlys pc. No updates had been done since installation of the pc.
+Started Windows updates on Erica's pc and the server. Departed prior to completion.
+
+6/12
+-Windows updates froze on Erica's pc and the server. Restarted updating process. Process completed successfully on both.
+-NAVCE detected Bugbear virus on Erica's pc. Ran BugBear removal tool from SARC on Erica's pc. Virus removed from both PC's.
+-WJView popup error removed. Root cause was Ebates Moe Money Maker. Could not uninstall. Deleted wjview.exe from C:\winnt\system32. Then removed registry entry for wjview.exe"
+331|2003-06-13 08:37:35.783000000|2|28|5|"FL"|"2428"
+332|2003-06-13 14:22:37.623000000|3|21|5|"FL"|"2471"
+335|2003-06-24 04:54:32.657000000|3|31|5|"FL"|"2449"
+337|2003-06-30 04:14:50.150000000|3|39|5|"FL"|"2470"
+338|2003-06-30 23:05:10.450000000|3|26|5|"FL"|"2513"
+340|2003-07-01 11:04:14.563000000|3|24|5|"FL"|"2523"
+341|2003-07-06 23:03:54.307000000|3|21|5|"FL"|"2522"
+345|2003-07-11 15:50:51.843000000|5|17|5|"CA"|"2480"
+346|2003-07-11 15:54:26.250000000|5|25|5|"CA"|"2481"
+348|2003-07-18 05:32:08.627000000|3|35|5|"FL"|"2528"
+349|2003-07-21 11:01:49.283000000|3|53|5|"FL"|"2569"
+350|2003-07-21 22:42:39.033000000|3|26|5|"FL"|"2484"
+353|2003-07-24 19:42:12.123000000|3|58|5|"FL"|"2510"
+354|2003-07-24 19:43:12.890000000|3|39|5|"FL"|"2508"
+356|2003-07-29 11:41:25.230000000|2|4|5|"FL"|"2526"
+357|2003-07-31 22:38:42.170000000|3|31|5|"FL"|"2524"
+358|2003-07-31 22:40:32.890000000|3|47|5|"FL"|"2529
+
+7/28
+Sylvia's pc lost connection to the DNS server. Reset DNS entry. Remapped ""My Document folder. Remapped network drives."
+360|2003-08-03 22:00:29.293000000|3|35|5|"FL"|"2528"
+363|2003-08-10 21:23:48.597000000|3|21|5|"FL"|"2578"
+364|2003-08-10 21:28:34.550000000|3|47|5|"FL"|"2579"
+365|2003-08-11 10:31:48.280000000|5|65|5|"CA"|"2530"
+366|2003-08-11 15:37:44.890000000|3|39|5|"FL"|"This was a paid through a maintenance contract.  JAG"
+367|2003-08-15 04:24:12.680000000|3|66|5|"FL"|"2545"
+368|2003-08-17 22:18:08.180000000|3|31|5|"FL"|"2553"
+370|2003-08-17 22:32:00.163000000|3|58|5|"FL"|"2552
+
+8/14
+Remove Blaster worm from Tina's and Wayne's pc. Scan 2 others."
+371|2003-08-17 22:36:10.680000000|3|26|5|"FL"|"2543"
+372|2003-08-22 04:01:40.290000000|2|26|5|"FL"|"2544"
+374|2003-08-24 21:57:03.643000000|3|24|5|"FL"|""
+375|2003-08-24 22:26:54.220000000|3|4|5|"FL"|"2554"
+376|2003-08-25 13:36:31.523000000|3|66|5|"FL"|"2588"
+378|2003-08-26 23:22:52.237000000|3|58|5|"FL"|"2577"
+380|2003-09-05 21:25:29.293000000|3|13|5|"FL"|"2590"
+381|2003-09-05 21:26:50.750000000|3|21|5|"FL"|"This WO was not billed.  City of Lake Alfred was under a ""use or lose them"" hours contract.  Therefore,  they lost the left over hours credit on this WO.  John is negotiating a different hourly contract for the future so they won't have to lose them. "
+382|2003-09-06 02:07:16.450000000|3|47|5|"FL"|"2587"
+383|2003-09-06 03:30:39.090000000|2|26|5|"FL"|"New contract signed.  New work order opended.
+Invoice 2615"
+385|2003-09-10 06:32:28.070000000|2|66|5|"FL"|"2642"
+386|2003-09-10 17:07:47.007000000|3|39|5|"FL"|"2589"
+387|2003-09-13 05:53:18.687000000|2|47|5|"FL"|"2646"
+388|2003-09-13 05:54:31.340000000|2|13|5|"FL"|"2645"
+390|2003-09-16 16:37:15.550000000|2|66|5|"FL"|"Invoice 3232"
+391|2003-09-17 17:31:48.473000000|3|26|5|"FL"|""
+392|2003-09-27 04:18:35.417000000|2|26|5|"FL"|"Invoice 2662"
+394|2003-09-27 04:29:06.860000000|2|39|5|"FL"|"2641"
+395|2003-09-27 05:52:03.483000000|2|4|5|"FL"|"Invoice 2699"
+396|2003-10-01 11:35:13.183000000|3|21|5|"FL"|"Peggy:
+
+This work order has be closed.  We do not need to invoice for it as they are on a maintenance contract.
+
+Thanks...
+John"
+398|2003-10-07 14:17:35.307000000|6|74|5|"FL"|"2727
+
+Event on Hold per Bob 10/8"
+399|2003-10-15 01:31:13.190000000|3|72|5|"FL"|"Status set to Billed by JAG 12/9/2003."
+400|2003-10-17 18:03:57.923000000|1|31|5|"FL"|"2665"
+401|2003-10-18 06:14:42.047000000|3|72|5|"FL"|"Inv 2690"
+402|2003-10-18 06:27:22.733000000|2|58|5|"FL"|"Invoice 2696"
+403|2003-10-18 06:35:36.013000000|2|53|5|"FL"|"2666"
+406|2003-10-20 17:26:02.727000000|3|21|5|"FL"|"2667"
+408|2003-10-24 16:04:10.080000000|2|72|5|"FL"|"Invoice 2700"
+409|2003-10-25 05:15:03.377000000|2|24|5|"FL"|""
+410|2003-10-30 18:34:46.190000000|3|21|5|"FL"|"Invoice 2697"
+411|2003-10-30 18:38:21.050000000|3|39|5|"FL"|"Invoice 2695"
+412|2003-11-03 17:14:00.170000000|3|47|5|"FL"|"Invoice 2701"
+413|2003-11-03 17:15:27.730000000|3|58|5|"FL"|"Invoice 2702"
+415|2003-11-04 03:31:43.483000000|2|72|5|"FL"|"Invoice 2753"
+416|2003-11-05 15:52:53.273000000|5|25|5|"CA"|"Invoice 2711"
+417|2003-11-07 09:17:12.300000000|6|74|5|"TN"|"2757"
+422|2003-11-17 12:11:55.537000000|6|71|5|"TN"|"2725"
+423|2003-11-17 12:15:31.380000000|6|71|5|"TN"|"2726"
+424|2003-11-18 10:13:23.120000000|6|76|5|"TN"|"2728"
+425|2003-11-23 02:35:43.320000000|3|4|5|"FL"|"Invoice 2752"
+426|2003-11-24 19:10:41.333000000|2|21|5|"FL"|"Invoice 2749"
+427|2003-12-01 03:32:56.433000000|3|58|5|"FL"|"Invoice 2790"
+429|2003-12-02 19:07:55.173000000|2|47|5|"FL"|"Invoice 2796"
+430|2003-12-03 14:18:44.950000000|3|72|5|"FL"|"Invoice 2753"
+432|2003-12-10 17:10:05.833000000|2|72|5|"FL"|"This work order was closed by JAG due to end of maintenance contract period."
+433|2003-12-10 17:28:52.850000000|2|24|5|"FL"|""
+435|2003-12-10 17:59:33.173000000|5|77|5|"FL"|"Invoice 2797"
+436|2003-12-19 02:52:33.943000000|3|13|5|"FL"|"Invoice 2795"
+438|2003-12-19 03:05:10.567000000|2|35|5|"FL"|"Invoice 2793"
+439|2003-12-19 03:14:12.270000000|2|12|5|"FL"|"Invoice 2792"
+440|2004-01-05 07:37:27.473000000|2|21|5|"FL"|"Invoice 2810"
+441|2004-01-05 08:05:44.880000000|2|66|5|"FL"|"Invoice 2811"
+446|2004-01-10 03:39:51.660000000|2|47|5|"FL"|"Invoice 2861"
+447|2004-01-12 12:45:29.453000000|2|58|5|"FL"|"Invoice 2849"
+448|2004-01-12 12:50:02.267000000|10|24|5|"FL"|"Invoice 2851"
+449|2004-01-14 16:37:08.123000000|2|78|5|"FL"|"Invoice 2850"
+450|2004-01-16 13:41:59.227000000|5|40|5|"CA"|"Inv 2833 -  Along with 02BMCQ Monthly"
+451|2004-01-19 13:32:57.243000000|10|13|5|"FL"|"Invoice 2860"
+452|2004-01-19 13:34:59.023000000|10|12|5|"FL"|"Invoice 2856"
+453|2004-01-20 10:21:33.093000000|2|72|5|"FL"|"Invoice 2857"
+455|2004-01-28 03:32:11.250000000|10|79|5|"FL"|"Invoice 2859"
+456|2004-01-30 09:14:57.260000000|2|31|5|"FL"|"Invoice 2853"
+457|2004-01-30 09:25:38.493000000|2|4|5|"FL"|"Invoice 2855"
+458|2004-01-30 09:31:50.527000000|2|26|5|"FL"|"Invoice 2852"
+459|2004-01-30 10:35:36.633000000|12|81|5|"TN"|"This is for the Repair of Brian Bell's tower. I had to replace the power supply.
+
+There are 2 open P.Os associated with this order.  P.O P573 is for this powersupply and shipping fixed on 1/30/2004 and the P.O 488 is for the powersupply and shipping for the repair on 8/14/2003.  These are billed through GSX to our account.  
+
+Part Number - 661-2303
+
+Billed on Invoice 2862"
+460|2004-01-30 11:18:27.213000000|6|71|5|"TN"|"This order has a GSX order for four fibre channel cables in it.  They are billed to GSX PO number TN WO460.   Please bill them in here.  I will double check the cost when the invoice hits the GSX account to make sure that the parts are covered (in case there is tax or something like that they are not showing right now. (DH).
+
+Invoice 2886
+"
+461|2004-01-30 11:32:47.980000000|6|71|5|"TN"|"Invoice 2882"
+463|2004-02-03 15:15:07.043000000|5|71|5|"FL"|"Invoice 2881"
+464|2004-02-06 14:31:46.677000000|2|39|5|"FL"|""
+465|2004-02-07 04:23:27.323000000|2|13|5|"FL"|"Invoice 2955"
+466|2004-02-07 04:27:09.887000000|2|79|5|"FL"|"Work order signed.
+
+Invoice 2925"
+467|2004-02-09 07:39:06.693000000|2|24|5|"FL"|"Invoice 2951"
+470|2004-02-14 02:45:33.397000000|1|31|5|"FL"|"Invoice 2883"
+472|2004-02-16 11:40:17.797000000|2|4|5|"FL"|"Invoice 2922"
+475|2004-02-24 10:52:18.023000000|10|12|5|"FL"|"Invoice 2923"
+476|2004-02-25 22:37:11.857000000|5|25|5|"CA"|"Invoice 2896"
+477|2004-02-28 07:31:01.543000000|5|25|5|"CA"|"Invoice 2920"
+478|2004-02-29 04:42:42.353000000|2|31|5|"FL"|"Invoice 2921"
+480|2004-03-01 05:16:00.830000000|10|79|5|"FL"|"Invoice 2925"
+482|2004-03-03 07:13:06.520000000|3|12|5|"FL"|"Invoice 2992"
+483|2004-03-03 07:44:36.037000000|3|79|5|"FL"|"Invoice 2954"
+484|2004-03-03 07:46:26.333000000|3|77|5|"FL"|"Invoice 2998"
+486|2004-03-04 17:44:13.227000000|2|72|5|"FL"|"Invoice 2953"
+487|2004-03-07 03:03:51.777000000|2|31|5|"FL"|"Invoice 2988"
+488|2004-03-08 09:20:32.673000000|10|4|5|"FL"|"Invoice 2989"
+489|2004-03-08 09:23:27.283000000|10|13|5|"FL"|"Invoice 2979"
+490|2004-03-08 11:57:51.503000000|3|72|5|"FL"|"Invoice 2994"
+492|2004-03-08 13:37:10.907000000|3|24|5|"FL"|"Invoice 2987"
+493|2004-03-12 14:05:03.480000000|3|72|5|"FL"|"Invoice 2953"
+494|2004-03-16 07:14:51.387000000|3|47|5|"FL"|"Invoice 2997"
+495|2004-03-16 08:40:53.230000000|2|66|5|"FL"|"Invoice 2952"
+496|2004-03-19 02:51:54.943000000|10|79|5|"FL"|"Invoice 2959"
+497|2004-03-20 04:03:45.933000000|2|78|5|"FL"|"Invoice 2957"
+499|2004-03-20 04:11:51.543000000|2|53|5|"FL"|"Invoice 2991"
+500|2004-03-22 10:42:39.560000000|2|13|5|"FL"|"Invoice 2996"
+501|2004-03-23 13:24:13.110000000|2|79|5|"FL"|"Paper tray is on backorder
+
+Invoice 2995"
+502|2004-04-04 05:04:56.147000000|2|47|5|"FL"|"Invoice 2997"
+504|2004-04-05 11:57:38.613000000|3|35|5|"FL"|"Invoice 2993"
+506|2004-04-06 12:02:35.763000000|10|24|5|"FL"|"Closed by JAG - end of month."
+507|2004-04-07 06:48:50.420000000|2|89|5|"FL"|"Peggy:
+Please change to billed.
+
+Thanks...
+John"
+508|2004-04-07 06:53:40.217000000|2|89|5|"FL"|"2986"
+509|2004-04-07 11:09:23.670000000|2|35|5|"FL"|"Invoice 3055"
+510|2004-04-12 07:36:10.043000000|10|4|5|"FL"|"Invoice 3051"
+511|2004-04-15 10:39:14.183000000|10|53|5|"FL"|"Invoice 3052"
+512|2004-04-16 09:39:56.197000000|10|79|5|"FL"|"Invoice 3057"
+513|2004-04-21 14:57:38.440000000|5|25|5|"CA"|"Invoice 3010"
+514|2004-04-22 04:10:19.763000000|10|72|5|"FL"|"Invoice 3012"
+515|2004-04-24 05:53:45.753000000|2|13|5|"FL"|"Invoice 3049"
+517|2004-04-26 15:09:47.117000000|10|87|5|"FL"|"Invoice 3056"
+518|2004-04-28 11:41:38.287000000|5|2|5|"CA"|"3040"
+519|2004-04-30 11:04:27.460000000|6|71|5|"TN"|"3103  May"
+520|2004-04-30 11:07:36.553000000|6|71|5|"TN"|"3109"
+521|2004-04-30 15:20:39.993000000|2|90|5|"FL"|"Invoice 3054"
+522|2004-05-03 14:54:50.697000000|10|91|5|"FL"|"Invoice 3050"
+523|2004-05-06 08:40:02.760000000|5|25|5|"CA"|"Invoice 3045"
+525|2004-05-09 05:08:35.140000000|10|72|5|"FL"|""
+526|2004-05-09 05:17:21.860000000|3|24|5|"FL"|""
+527|2004-05-10 12:53:03.617000000|3|91|5|"FL"|"Invoice 3089"
+528|2004-05-11 07:43:19.377000000|10|13|5|"FL"|"Invoice 3096"
+529|2004-05-11 09:56:09.473000000|3|47|5|"FL"|"Invoice 3097"
+532|2004-05-12 11:20:09.480000000|6|71|5|"TN"|"3303"
+533|2004-05-13 12:47:00.437000000|10|12|5|"FL"|"Invoice 3092"
+534|2004-05-13 13:46:51.827000000|10|79|5|"FL"|"Invoice 3093"
+536|2004-05-19 10:11:19.440000000|5|2|5|"CA"|"invoice 3070"
+537|2004-05-20 06:51:54.773000000|3|78|5|"FL"|"Invoice 3118"
+539|2004-05-24 13:01:39.420000000|3|53|5|"FL"|"Invoice 3094"
+540|2004-05-26 11:25:21.573000000|3|4|5|"FL"|"Invoice 3091"
+543|2004-05-28 10:14:13.250000000|10|31|5|"FL"|"Invoice 3090"
+544|2004-06-01 14:00:03.133000000|3|13|5|"FL"|"Invoice 3160"
+545|2004-06-03 09:21:32.490000000|10|24|5|"FL"|"Invoice 3156"
+547|2004-06-08 09:53:36.210000000|10|47|5|"FL"|"Invoice 3161"
+548|2004-06-08 14:32:10.320000000|10|89|5|"FL"|"Invoice 3120"
+550|2004-06-10 08:39:26.797000000|2|72|5|"FL"|"Invoice 3119"
+551|2004-06-11 12:38:32.273000000|5|25|5|"CA"|"Invoice 3116"
+552|2004-06-14 08:23:19.657000000|3|91|5|"FL"|"Invoice 3155"
+553|2004-06-21 13:24:51.183000000|10|87|5|"FL"|"Invoice 3158"
+554|2004-06-22 10:26:36.890000000|2|21|5|"FL"|"3131"
+555|2004-06-24 05:47:56.157000000|2|58|5|"FL"|"Invoice 3154"
+556|2004-06-25 19:33:55.237000000|10|79|5|"FL"|"Invoice 3159"
+557|2004-06-29 10:04:41.957000000|2|12|5|"FL"|"Invoice 3172"
+558|2004-06-30 07:22:40.460000000|6|93|5|"FL"|"Ingram Micro  3174
+Black Box  3194"
+559|2004-06-30 09:32:05.193000000|3|91|5|"FL"|"Invoice 3171"
+560|2004-07-07 04:55:17.300000000|2|13|5|"FL"|"Invoice 3235"
+561|2004-07-07 08:41:18.950000000|2|94|5|"FL"|"Invoice 3189"
+562|2004-07-07 12:01:31.307000000|2|24|5|"FL"|""
+563|2004-07-08 09:08:38.757000000|10|4|5|"FL"|"Invoice 3233"
+564|2004-07-08 10:58:14.520000000|2|47|5|"FL"|"Invoice 3217"
+565|2004-07-09 14:30:00.140000000|2|89|5|"FL"|""
+567|2004-07-12 07:29:46.910000000|2|91|5|"FL"|"Invoice 3219"
+568|2004-07-19 10:23:56.600000000|10|97|5|"FL"|"Invoice 3191"
+569|2004-07-20 15:24:16.150000000|2|72|5|"FL"|"Invoice 3221"
+570|2004-07-26 07:59:44.530000000|2|21|5|"FL"|"Invoice 3231"
+571|2004-07-27 07:42:30.433000000|2|96|5|"FL"|"Invoice 3234"
+572|2004-07-27 08:51:32.377000000|2|77|5|"FL"|"Invoice 3222"
+573|2004-07-30 09:37:54.840000000|2|97|5|"FL"|"Invoice 3220"
+575|2004-08-04 12:10:47.610000000|3|13|5|"FL"|"Invoice 3262"
+576|2004-08-05 07:44:09.400000000|2|47|5|"FL"|"Invoice 3263"
+578|2004-08-11 05:46:53.760000000|6|93|5|"TN"|"3244"
+579|2004-08-11 14:32:43.817000000|2|66|5|"FL"|"Invoice 3283"
+580|2004-08-13 07:34:05.660000000|10|97|5|"FL"|"Invoice 3257"
+581|2004-08-16 09:06:55.883000000|2|91|5|"FL"|"Invoice 3243"
+582|2004-08-17 07:32:25.693000000|2|79|5|"FL"|"Invoice 3261"
+584|2004-08-19 04:45:50.670000000|2|72|5|"FL"|"Invoice 3282"
+585|2004-08-20 13:33:54.580000000|2|24|5|"FL"|"Invoice 3371"
+586|2004-08-23 12:58:21.230000000|2|100|5|"FL"|"Invoice 3258"
+588|2004-08-25 11:34:16.623000000|2|91|5|"FL"|""
+589|2004-08-26 11:34:27.713000000|2|35|5|"FL"|"Invoice 3260"
+590|2004-08-29 02:57:16.773000000|2|13|5|"FL"|"Invoice 3308"
+591|2004-09-01 14:38:47.350000000|10|79|5|"FL"|"Invoice 3354"
+592|2004-09-02 15:14:27.343000000|10|66|5|"FL"|"Invoice 3347"
+593|2004-09-07 09:00:08.347000000|2|21|5|"FL"|"Invoice 3345"
+594|2004-09-07 16:57:40.750000000|2|96|5|"FL"|"Invoice 3355"
+596|2004-09-08 14:34:13.643000000|10|77|5|"FL"|"Invoice 3359"
+597|2004-09-09 02:18:46.950000000|2|47|5|"FL"|"Invoice 3306"
+599|2004-09-13 08:30:59.897000000|6|71|5|"TN"|"3303"
+600|2004-09-13 08:32:13.117000000|6|71|5|"TN"|"3303"
+601|2004-09-13 08:33:06.630000000|6|71|5|"TN"|"3303"
+603|2004-09-14 09:15:08.113000000|6|71|5|"TN"|"3303"
+604|2004-09-14 14:31:24.440000000|10|13|5|"FL"|"Invoice 3356"
+605|2004-09-16 07:39:37.887000000|3|4|5|"FL"|"Invoice 3349"
+606|2004-09-16 23:22:23.130000000|3|53|5|"FL"|"Invoice 3350"
+609|2004-09-22 09:23:17.810000000|6|71|5|"TN"|"3319"
+610|2004-09-22 14:22:32.600000000|2|26|5|"FL"|"Invoice 3320"
+612|2004-09-25 10:36:36.773000000|2|72|5|"FL"|""
+613|2004-09-27 05:55:10.957000000|3|39|5|"FL"|"Invoice 3344"
+615|2004-09-27 20:23:17.460000000|3|26|5|"FL"|"Invoice 3346"
+616|2004-09-29 11:19:17.667000000|2|47|5|"FL"|"Invoice 3358"
+617|2004-09-29 11:24:02.400000000|2|13|5|"FL"|"Invoice 3357"
+618|2004-09-29 14:54:50.460000000|10|72|5|"FL"|"Invoice 3353"
+619|2004-09-29 16:25:56.410000000|6|71|5|"TN"|"3360"
+620|2004-10-01 09:37:08.193000000|2|35|5|"FL"|"Invoice 3380"
+621|2004-10-04 07:52:36.403000000|2|89|5|"FL"|"Invoice 3382"
+622|2004-10-04 11:50:38.943000000|10|77|5|"FL"|"Invoice 3429"
+623|2004-10-04 14:49:04.797000000|2|39|5|"FL"|"Invoice 3416"
+624|2004-10-04 14:50:11.397000000|2|72|5|"FL"|"Invoice 3426"
+625|2004-10-05 13:24:33.613000000|2|97|5|"FL"|"Invoice 3384"
+626|2004-10-06 06:28:51.367000000|6|71|5|"TN"|"3367"
+627|2004-10-06 06:37:06.710000000|6|102|5|"TN"|"3368"
+629|2004-10-07 16:24:20.610000000|2|13|5|"FL"|"Invoice 3427"
+630|2004-10-08 06:56:50.557000000|3|87|5|"FL"|"Invoice 3425"
+631|2004-10-12 13:56:40.870000000|10|31|5|"FL"|"Invoice 3421"
+633|2004-10-14 12:33:51.340000000|2|79|5|"FL"|"Invoice 3410"
+634|2004-10-14 14:21:06.677000000|10|24|5|"FL"|"Invoice 3419"
+635|2004-10-15 12:46:25.810000000|2|72|5|"FL"|"Invoice 3426"
+636|2004-10-18 09:13:19.457000000|3|47|5|"FL"|"Invoice 3428"
+637|2004-10-19 07:39:52.647000000|10|66|5|"FL"|"Invoice 3422"
+639|2004-10-21 05:43:18.993000000|3|26|5|"FL"|""
+640|2004-10-22 08:42:03.590000000|3|35|5|"FL"|"Invoice 3424"
+641|2004-10-22 11:29:32.470000000|6|102|5|"TN"|"3385"
+642|2004-10-27 12:52:06.740000000|3|91|5|"FL"|"Invoice 3418"
+643|2004-10-28 10:17:10.930000000|3|28|5|"FL"|"Invoice 3423"
+644|2004-11-01 09:10:42.357000000|5|2|5|"CA"|"Invoice 3411"
+645|2004-11-02 03:51:36.217000000|2|66|5|"FL"|"Inv. #'s 4013, 4014 & 4015"
+646|2004-11-03 08:06:09.200000000|6|71|5|"TN"|"Invoice to Ingram  3446
+Invoice to Black Box 3447
+Invoice to Apple  3448
+
+Please bill all parties.
+
+Bob"
+648|2004-11-04 14:48:20.637000000|10|21|5|"FL"|"Invoice 3417"
+649|2004-11-05 11:17:19.893000000|2|79|5|"FL"|"Invoice 3474"
+650|2004-11-08 06:35:42.390000000|10|78|5|"FL"|"Invoice 3473"
+651|2004-11-08 07:05:16.783000000|2|91|5|"FL"|"Invoice 3418"
+652|2004-11-08 11:58:15.227000000|10|47|5|"FL"|"Invoice 3477"
+653|2004-11-08 19:53:19.277000000|3|26|5|"FL"|"Invoice 3420"
+654|2004-11-10 16:33:05.813000000|3|26|5|"FL"|""
+655|2004-11-11 05:55:51.993000000|10|13|5|"FL"|"Invoice 3476"
+656|2004-11-12 08:25:22.277000000|2|39|5|"FL"|"Invoice 3472"
+657|2004-11-12 09:46:19.103000000|2|12|5|"FL"|"Invoice 3440"
+658|2004-11-12 10:53:55.747000000|2|24|5|"FL"|"Not billed; closed out"
+659|2004-11-17 14:12:54.940000000|2|72|5|"FL"|"Invoice 3439"
+660|2004-11-17 14:14:14.303000000|10|72|5|"FL"|"Invoice 3438 - billed against project 04BMIFACWIRE in the amount of $6,158.01.  The $158.01 was the balance due on the equipment not paid with the initial deposit."
+661|2004-11-29 08:56:13.437000000|3|96|5|"FL"|"Invoice 3475"
+664|2004-12-06 05:55:41.430000000|10|13|5|"FL"|"Invoice 3533"
+666|2004-12-08 05:46:43.643000000|10|97|5|"FL"|"Invoice 3490"
+667|2004-12-09 07:44:26.400000000|2|21|5|"FL"|"Invoice 3488"
+668|2004-12-11 01:58:56.030000000|2|21|5|"FL"|""
+669|2004-12-11 02:38:02.303000000|2|21|5|"FL"|"Invoice 3520"
+670|2004-12-11 07:02:07.087000000|10|26|5|"FL"|""
+671|2004-12-12 14:19:18.600000000|2|47|5|"FL"|"Invoice 3500"
+674|2004-12-13 15:13:42.903000000|14|24|5|"FL"|"Invoice 3501"
+675|2004-12-13 16:11:13.340000000|10|100|5|"FL"|"Invoice 3489"
+677|2004-12-16 08:47:21.380000000|10|58|5|"FL"|"Invoice 3503"
+678|2004-12-16 13:32:49.600000000|10|79|5|"FL"|"Invoice 3532"
+679|2004-12-17 10:59:38.627000000|2|39|5|"FL"|""
+680|2004-12-17 12:57:13.530000000|2|91|5|"FL"|"Invoice 3502"
+684|2004-12-23 12:41:07.840000000|10|53|5|"FL"|"Invoice 3528"
+685|2004-12-28 09:49:41.533000000|2|35|5|"FL"|"Invoice 3530"
+686|2004-12-28 12:06:19.347000000|2|24|5|"FL"|"Invoice 3572"
+687|2004-12-29 07:37:57.307000000|2|39|5|"FL"|"Invoice 3526"
+688|2004-12-29 07:41:36.577000000|2|72|5|"FL"|"Invoice 3531"
+690|2005-01-04 11:03:37.157000000|2|24|5|"FL"|"Invoice 3572"
+691|2005-01-04 14:35:01.997000000|10|100|5|"FL"|"Invoice 3548"
+692|2005-01-05 07:47:41.737000000|10|13|5|"FL"|"Invoice 3569"
+693|2005-01-06 11:48:39.997000000|10|97|5|"FL"|"Invoice 3565"
+694|2005-01-06 12:43:34.517000000|5|110|5|"CA"|"Please bill client via mail.  This was for work performed last year.
+
+Invoice 3524"
+695|2005-01-07 13:55:00.023000000|14|28|5|"FL"|"Invoice 3549"
+696|2005-01-08 05:01:34.413000000|2|91|5|"FL"|"Invoice 3564"
+697|2005-01-10 12:40:48.173000000|2|109|5|"FL"|"Invoice 3545"
+699|2005-01-11 12:08:59.827000000|2|109|5|"FL"|"Invoice 3590"
+700|2005-01-12 09:09:28.280000000|6|71|5|"TN"|""
+701|2005-01-12 12:22:41.477000000|2|26|5|"FL"|""
+702|2005-01-14 13:59:52.100000000|14|79|5|"FL"|"Invoice 3567"
+707|2005-01-25 05:34:25.393000000|14|109|5|"FL"|"Invoice 3568"
+708|2005-01-26 06:43:25.067000000|10|77|5|"FL"|"Invoice 3583"
+709|2005-01-29 09:01:47.590000000|12|29|5|"TN"|"Quote has been signed.
+
+Price of Part and Shipping $500.00
+
+Markup - $50.00
+
+This is invoice 9217735926 in GSX billing.
+
+The order/repair number is 030002858849.
+
+Part was delivered to ACS on 2/21/2005.   This is ready to be billed out.
+
+Invoice 3602"
+711|2005-01-31 12:44:00.403000000|14|28|5|"FL"|"Invoice 3566"
+712|2005-02-01 02:12:09.093000000|2|24|5|"FL"|"Invoice 3639"
+713|2005-02-01 06:45:15.610000000|10|100|5|"FL"|"Invoice 3593"
+714|2005-02-01 09:18:05.723000000|10|103|5|"FL"|"Invoice 3646"
+715|2005-02-01 11:03:51.400000000|2|58|5|"FL"|"Invoice 3637"
+716|2005-02-02 13:15:14.243000000|14|109|5|"FL"|"Invoice 3642"
+717|2005-02-02 15:01:13.067000000|14|77|5|"FL"|"Invoice 3591"
+718|2005-02-03 06:35:56.250000000|10|13|5|"FL"|"Invoice 3644"
+720|2005-02-03 17:17:14.750000000|2|28|5|"FL"|"Invoice 3578"
+721|2005-02-04 10:09:20.863000000|5|2|5|"CA"|"Invoice 3582"
+722|2005-02-04 11:15:10.907000000|14|96|5|"FL"|"Invoice 3592"
+724|2005-02-04 14:33:21.410000000|14|4|5|"FL"|"Invoice 3640"
+725|2005-02-04 19:33:05.757000000|12|102|5|"TN"|"3606
+
+I placed my expense in for the mileage and my meals for this trip.  This is ready to bill out.
+
+Bill the $250 to professional services.  The remainder is profit.  (RK)"
+726|2005-02-08 12:42:02.240000000|2|72|5|"FL"|"Invoice 3617"
+727|2005-02-09 10:17:12.510000000|6|113|5|"TN"|"Bill - EM
+
+Invoice 3603"
+728|2005-02-14 08:15:28.670000000|2|21|5|"FL"|"Invoice 3619"
+729|2005-02-15 08:12:10.527000000|2|26|5|"FL"|"Invoice 3823"
+730|2005-02-15 08:13:13.983000000|10|79|5|"FL"|"Invoice 3641"
+732|2005-02-17 07:33:01.560000000|10|47|5|"FL"|"Invoice 3645"
+734|2005-02-23 12:36:53.567000000|10|96|5|"FL"|"Invoice 3643"
+736|2005-03-02 05:38:21.527000000|2|72|5|"FL"|"Invoice 3647"
+737|2005-03-03 02:29:17.047000000|2|24|5|"FL"|"Invoice 3711"
+738|2005-03-03 09:48:23.993000000|10|97|5|"FL"|"Invoice 3708"
+739|2005-03-04 07:02:48.910000000|10|4|5|"FL"|"Invoice 3709"
+741|2005-03-07 10:11:34.467000000|5|2|5|"CA"|"Invoice 3657"
+742|2005-03-08 09:18:55.620000000|14|109|5|"FL"|"Invoice 3705"
+743|2005-03-08 09:49:20.503000000|10|13|5|"FL"|"Invoice 3704"
+745|2005-03-10 12:34:19.690000000|2|79|5|"FL"|"Invoice 3706"
+746|2005-03-14 06:25:59.263000000|2|24|5|"FL"|"Invoice 3662"
+747|2005-03-15 13:30:39.120000000|2|114|5|"FL"|""
+748|2005-03-16 07:26:22.870000000|10|100|5|"FL"|"Invoice 3707"
+749|2005-03-16 10:00:24.537000000|10|47|5|"FL"|"Invoice 3703"
+751|2005-03-21 12:31:11.717000000|6|102|5|"TN"|"3724
+
+Expense report and COA for Apple will be sent today.  4/11/05"
+752|2005-03-22 06:23:23.093000000|10|58|5|"FL"|"Invoice 3712"
+753|2005-03-22 07:52:17.907000000|10|103|5|"FL"|"Invoice 3702"
+754|2005-04-04 18:01:37.970000000|2|24|5|"FL"|"Invoice 3772"
+755|2005-04-06 13:22:14.893000000|2|79|5|"FL"|"Invoice 3776"
+757|2005-04-14 06:36:45.557000000|10|4|5|"FL"|"Invoice 3774"
+758|2005-04-14 10:53:51.227000000|2|87|5|"FL"|"Invoice 3730"
+759|2005-04-14 13:39:48|2|114|5|"FL"|"Invoice 3732"
+760|2005-04-15 04:38:57.263000000|10|91|5|"FL"|"Invoice 3771"
+761|2005-04-15 09:02:45.963000000|2|47|5|"FL"|"Invoice 3779"
+762|2005-04-15 11:01:48.157000000|2|13|5|"FL"|"Invoice 3778"
+763|2005-04-18 08:25:23.477000000|15|72|5|"FL"|"Invoice 3731"
+766|2005-04-25 08:23:26.837000000|2|96|5|"FL"|"Invoice 3777"
+769|2005-04-26 00:23:26.493000000|5|2|5|"CA"|"DW will have expenses to put against this.
+
+-Chris
+
+Invoice 3735"
+771|2005-04-27 12:35:36.517000000|2|47|5|"FL"|"3740"
+772|2005-04-27 13:17:27.723000000|6|71|5|"TN"|""
+773|2005-04-28 09:52:10.210000000|5|25|5|"CA"|"Invoice 3741"
+774|2005-05-01 17:54:54.080000000|14|72|5|"FL"|"Invoice 3775"
+776|2005-05-05 06:33:34.600000000|6|113|5|"TN"|"Invoice 3781"
+777|2005-05-05 09:15:51.570000000|2|118|5|"FL"|"Invoice 3784"
+778|2005-05-05 12:11:15.857000000|2|109|5|"FL"|"Invoice 3820"
+779|2005-05-07 12:06:23.757000000|10|39|5|"FL"|"Invoice 3825"
+780|2005-05-14 04:00:35.977000000|2|24|5|"FL"|"Invoice 3824"
+781|2005-05-16 10:44:13.583000000|14|91|5|"FL"|"Invoice 3791"
+782|2005-05-17 12:44:06.297000000|14|47|5|"FL"|"Invoice 3818"
+783|2005-05-18 12:15:29.933000000|10|79|5|"FL"|"Invoice 3821"
+784|2005-05-23 07:36:42.240000000|14|13|5|"FL"|"Invoice 3819"
+785|2005-05-24 10:51:33.007000000|2|91|5|"FL"|""
+787|2005-05-27 05:53:07.763000000|15|72|5|"FL"|"Invoice 3795"
+788|2005-05-27 06:24:28.490000000|10|12|5|"FL"|"Invoice 3822"
+789|2005-05-28 05:50:44.497000000|2|120|5|"FL"|""
+790|2005-06-02 02:46:16.610000000|2|24|5|"FL"|"Invoice # 3891"
+791|2005-06-03 08:02:59.697000000|14|72|5|"FL"|"Invoice 3859"
+792|2005-06-04 09:29:08.213000000|14|89|5|"FL"|"Invoice 3861"
+793|2005-06-06 12:28:04.383000000|14|78|5|"FL"|"Invoice 3855 - Voided on 9/6/2005"
+794|2005-06-06 13:09:48.110000000|2|109|5|"FL"|"Invoice 3860"
+795|2005-06-08 10:38:51.493000000|14|39|5|"FL"|"Invoice 3854"
+796|2005-06-08 14:19:17.393000000|10|26|5|"FL"|"Invoice 3856"
+797|2005-06-08 14:24:08.013000000|10|4|5|"FL"|"Invoice 3857"
+798|2005-06-08 15:09:55.760000000|5|2|5|"CA"|"Invoice 3831"
+799|2005-06-09 12:58:20.240000000|2|118|5|"FL"|"Invoice # 3863"
+801|2005-06-13 06:41:28.847000000|14|96|5|"FL"|"Invoice # 3896"
+802|2005-06-13 10:42:17.073000000|14|79|5|"FL"|"Invoice # 3895"
+803|2005-06-15 08:24:25.157000000|10|13|5|"FL"|"Invoice # 3897"
+804|2005-06-16 07:02:35.480000000|14|78|5|"FL"|"Invoice # 3862 - Voided on 9/6/2005"
+805|2005-06-16 11:13:13.497000000|2|120|5|"FL"|"Invoice # 3893"
+806|2005-06-17 08:47:12.730000000|10|47|5|"FL"|"Invoice # 3898"
+807|2005-06-17 09:00:39.310000000|2|109|5|"FL"|"Invoice 3900"
+808|2005-06-20 11:02:50.623000000|14|39|5|"FL"|"Invoice # 3887"
+809|2005-06-20 12:30:07.773000000|14|78|5|"FL"|"Invoice # 3890
+
+Revised on 9/6/2005 to:
+
+Inv. # 3890-R
+
+To replace two voided invoices.  "
+811|2005-06-21 06:48:07.630000000|10|94|5|"FL"|"Invoice # 3888"
+812|2005-06-22 01:56:40.490000000|2|31|5|"FL"|"Invoice # 3892"
+814|2005-07-01 05:56:30.580000000|15|72|5|"FL"|"Invoice # 3894"
+817|2005-07-05 11:39:23.850000000|2|24|5|"FL"|""
+818|2005-07-07 06:32:10.430000000|6|93|5|"TN"|"3961 Black Box
+3962 Ingram
+2965  Apple"
+819|2005-07-07 09:06:51.130000000|2|96|5|"FL"|""
+820|2005-07-10 06:58:47.587000000|10|4|5|"FL"|""
+821|2005-07-11 07:46:58.483000000|10|114|5|"FL"|""
+822|2005-07-11 12:24:55.147000000|5|33|5|"CA"|"Invoice 3902"
+823|2005-07-12 11:13:34.883000000|10|122|5|"FL"|""
+824|2005-07-12 16:33:19.140000000|2|94|5|"FL"|""
+825|2005-07-15 07:42:33.223000000|10|13|5|"FL"|""
+826|2005-07-18 05:17:07.620000000|6|71|5|"TN"|"4042
+
+"
+827|2005-07-19 07:43:11.240000000|6|93|5|"TN"|"Apple 4005
+ingram  4003
+Black Box 4004"
+828|2005-07-20 08:45:58.803000000|2|124|5|"FL"|""
+829|2005-07-21 11:36:37.400000000|10|79|5|"FL"|""
+833|2005-07-27 10:24:44.320000000|10|127|5|"FL"|""
+834|2005-07-28 06:54:55.257000000|2|109|5|"FL"|""
+835|2005-08-01 17:50:55.653000000|3|122|5|"FL"|"Inv. # 3998"
+837|2005-08-04 09:25:17.930000000|2|13|5|"FL"|"Inv # 4039"
+838|2005-08-05 10:55:28.037000000|3|79|5|"FL"|"Inv # 4006"
+839|2005-08-05 11:06:24.080000000|3|24|5|"FL"|"Inv. # 4089"
+844|2005-08-13 22:30:57.080000000|2|109|5|"FL"|"Inv # 4034"
+845|2005-08-15 08:23:00.893000000|2|28|5|"FL"|"Inv # 4031"
+846|2005-08-16 04:09:45.510000000|3|130|5|"FL"|"Inv # 4037-R
+
+Revised on 9/13/05."
+847|2005-08-16 12:07:21.177000000|3|47|5|"FL"|"Inv # 4040"
+848|2005-08-17 13:54:54.490000000|2|120|5|"FL"|"Inv # 4028"
+849|2005-08-17 13:56:45.363000000|2|66|5|"FL"|"Inv # 4029"
+850|2005-08-19 10:22:53.100000000|5|2|5|"CA"|"Invoice 4096"
+851|2005-08-22 06:21:11.330000000|2|78|5|"FL"|"Inv # 4026"
+852|2005-08-22 08:42:03.353000000|2|31|5|"FL"|"Inv # 4027"
+853|2005-08-22 09:24:23.557000000|10|89|5|"FL"|"Inv # 4036"
+854|2005-08-22 10:58:11.037000000|5|25|5|"CA"|"Invoice 3997"
+855|2005-08-23 09:56:15.343000000|2|96|5|"FL"|"Inv # 4038"
+856|2005-08-27 16:06:03.260000000|10|79|5|"FL"|"Inv # 4033"
+857|2005-08-29 07:33:07.277000000|15|72|5|"FL"|"Inv # 4032"
+858|2005-08-29 11:45:26.140000000|12|132|5|"TN"|"This is for processing/creating a new image from the drive that Adam Green sent to the warehouse on 8/26/2005.   This covers 2 hours woth of work to get the imaged prepared to be used to turn the machines for the pro apps pools.
+
+Invoice 4043"
+859|2005-08-30 20:01:48.247000000|10|127|5|"FL"|"Inv # 4030"
+860|2005-09-06 06:26:24.363000000|10|79|5|"FL"|"Inv. # 4093"
+861|2005-09-06 10:36:01.240000000|3|133|5|"FL"|"Inv. # 4092"
+863|2005-09-07 09:28:28.653000000|2|131|5|"FL"|""
+864|2005-09-07 11:32:29.047000000|10|109|5|"FL"|"Inv. # 4094"
+866|2005-09-08 11:51:11.227000000|3|87|5|"FL"|"Inv. # 4090"
+867|2005-09-08 14:40:38.587000000|3|13|5|"FL"|"Inv. # 4081"
+868|2005-09-09 07:28:57.680000000|10|135|5|"FL"|"Inv. # 4084"
+869|2005-09-12 13:33:36.130000000|3|28|5|"FL"|"Inv. # 4088"
+870|2005-09-13 14:32:09.953000000|2|47|5|"FL"|"Inv. # 4082"
+871|2005-09-16 05:22:52.180000000|2|124|5|"FL"|"Inv # 4075"
+872|2005-09-21 11:51:07.240000000|3|136|5|"FL"|"Inv. # 4083"
+873|2005-09-23 07:33:22.257000000|2|130|5|"FL"|"Invoice 4341"
+874|2005-09-23 11:29:45.223000000|10|66|5|"FL"|"Inv. # 4086"
+875|2005-09-23 12:15:58.023000000|3|127|5|"FL"|"Inv. # 4087"
+876|2005-09-23 14:10:23.677000000|2|24|5|"FL"|"Inv. # 4089"
+877|2005-09-26 09:54:11.077000000|2|124|5|"FL"|"Inv. # 4085"
+878|2005-09-27 14:03:17.110000000|2|91|5|"FL"|"Inv. # 4095"
+879|2005-09-30 07:17:55.317000000|2|24|5|"FL"|"Inv. # 4141"
+880|2005-10-01 04:45:28.847000000|2|133|5|"FL"|"Inv. # 4114"
+881|2005-10-03 08:44:03.737000000|2|79|5|"FL"|"Inv. # 4118"
+882|2005-10-03 18:10:23.090000000|5|137|5|"CA"|"4097"
+883|2005-10-05 10:10:29.633000000|10|135|5|"FL"|"Inv. # 4119"
+884|2005-10-05 13:17:02.033000000|5|2|5|"CA"|"Invoice 4115"
+885|2005-10-05 20:04:31.150000000|5|137|5|"CA"|"4098"
+887|2005-10-10 06:28:35.623000000|3|13|5|"FL"|"Inv. # 4120"
+888|2005-10-12 02:55:48.330000000|2|66|5|"FL"|"Inv. # 4112"
+889|2005-10-13 02:13:50.583000000|10|131|5|"FL"|"Inv. # 4113"
+890|2005-10-14 08:39:35.920000000|2|79|5|"FL"|"Inv. # 4146"
+891|2005-10-14 10:42:13.727000000|5|25|5|"CA"|"Invoice 4117"
+892|2005-10-14 10:44:34.837000000|5|2|5|"CA"|"Invoice 4123"
+893|2005-10-17 05:02:21.083000000|2|109|5|"FL"|"Inv. # 4148"
+894|2005-10-17 10:59:25.020000000|2|127|5|"FL"|"Inv. # 4143"
+895|2005-10-17 19:16:04.233000000|2|26|5|"FL"|"Inv. # 4121"
+896|2005-10-18 07:37:27.990000000|10|13|5|"FL"|"Inv. # 4150"
+897|2005-10-18 10:04:17.577000000|2|135|5|"FL"|"Inv. # 4149"
+899|2005-10-19 05:34:57.687000000|2|58|5|"FL"|"Inv. # 4139"
+900|2005-10-20 02:15:33.803000000|2|91|5|"FL"|"Inv. # 4140"
+901|2005-10-20 08:59:09.627000000|10|133|5|"FL"|"Inv. # 4145"
+902|2005-10-20 11:40:20.017000000|6|102|5|"TN"|"Homer has finished this installation.  The COA for Apple has been faxed to Operations.
+
+
+4159"
+903|2005-10-24 13:06:47.187000000|2|79|5|"FL"|"Inv. # 4146"
+904|2005-10-24 16:03:22.230000000|2|131|5|"FL"|"Inv. # 4144R"
+905|2005-10-26 16:12:43.373000000|10|66|5|"FL"|"Inv. # 4142"
+906|2005-10-31 13:09:31.173000000|10|24|5|"FL"|"Inv. # 4187"
+907|2005-11-01 07:32:48.457000000|6|141|5|"TN"|"Please invoice ASAP.
+4158"
+908|2005-11-01 09:33:23.467000000|10|13|5|"FL"|"Inv. # 4176"
+910|2005-11-02 14:19:10.873000000|2|120|5|"FL"|""
+911|2005-11-02 15:21:15.960000000|6|102|5|"TN"|"Please Email COA and invoice to Vic ASAP.
+
+Thanks,
+
+Bob
+
+4164"
+912|2005-11-02 15:55:59.863000000|5|137|5|"CA"|"Invoice 4166"
+913|2005-11-03 10:34:01.573000000|2|140|5|"FL"|"Inv. # 4172"
+914|2005-11-03 10:35:49.620000000|2|135|5|"FL"|"Inv. # 4175"
+915|2005-11-03 10:36:39.213000000|2|139|5|"FL"|"Inv. # 4182"
+916|2005-11-07 11:05:28.767000000|3|131|5|"FL"|"Inv. # 4173"
+918|2005-11-09 20:51:03.067000000|10|109|5|"FL"|"Inv. # 4174"
+919|2005-11-10 06:11:33.610000000|2|79|5|"FL"|"Inv. # 4193"
+920|2005-11-11 11:51:34.360000000|2|91|5|"FL"|""
+921|2005-11-15 11:39:52.550000000|10|135|5|"FL"|"Inv. # 4194"
+922|2005-11-16 07:48:34.390000000|2|131|5|"FL"|"Inv. # 4190
+"
+923|2005-11-16 12:42:48.850000000|2|72|5|"FL"|""
+924|2005-11-17 06:17:00.387000000|10|97|5|"FL"|"Invoice 4248"
+925|2005-11-17 11:26:40.717000000|2|78|5|"FL"|"Inv. # 4186"
+926|2005-11-17 14:07:02.577000000|3|133|5|"FL"|"Inv. # 4191"
+927|2005-11-18 07:40:20.743000000|2|139|5|"FL"|"Inv. # 4192"
+928|2005-11-22 12:42:51.900000000|6|142|5|"TN"|"Please Bill John
+
+Invoice 4233"
+929|2005-11-23 08:22:23.710000000|10|66|5|"FL"|"Inv. # 4188"
+930|2005-11-23 08:23:53.820000000|10|127|5|"FL"|"Inv. # 4189"
+931|2005-11-24 04:39:04.310000000|2|21|5|"FL"|""
+932|2005-11-28 07:00:53.817000000|2|135|5|"FL"|"Inv. # 4217"
+933|2005-11-29 10:41:25.257000000|3|127|5|"FL"|"Inv. # 4214"
+934|2005-11-30 07:05:21.247000000|2|79|5|"FL"|"Inv. # 4216"
+935|2005-11-30 15:23:15.120000000|2|143|5|"FL"|""
+936|2005-12-01 15:50:33.913000000|5|2|5|"CA"|"Invoice 4230"
+937|2005-12-02 10:18:31.683000000|3|131|5|"FL"|"Inv. # 4215"
+938|2005-12-06 15:33:38.637000000|10|144|5|"FL"|""
+939|2005-12-08 11:46:33.033000000|3|13|5|"FL"|"Invoice 4253"
+940|2005-12-08 14:00:29.623000000|5|137|5|"CA"|"Invoice 4229"
+941|2005-12-09 07:42:00.460000000|10|24|5|"FL"|""
+942|2005-12-09 14:40:50.103000000|3|39|5|"FL"|"Inv. # 4213"
+943|2005-12-13 10:31:33.873000000|10|135|5|"FL"|"Invoice 4252"
+944|2005-12-14 02:31:33.963000000|2|79|5|"FL"|"Invoice 4251"
+945|2005-12-14 07:04:51.543000000|10|66|5|"FL"|"Invoice 4246"
+946|2005-12-14 11:39:20.060000000|10|127|5|"FL"|"Invoice 4247"
+947|2005-12-14 15:06:50.427000000|6|102|5|"TN"|"Homer will bill his expenses for this engagement to this work order.  However, we need to bill this out immediately.
+
+Invoice 4226"
+948|2005-12-15 07:38:04.897000000|3|139|5|"FL"|"Invoice 4250"
+950|2005-12-19 11:41:59.357000000|2|58|5|"FL"|"Invoice 4244"
+951|2005-12-20 05:33:10.620000000|2|31|5|"FL"|"Invoice 4245"
+952|2005-12-22 11:58:03.030000000|3|28|5|"FL"|"Invoice 4249"
+953|2005-12-27 06:04:25.313000000|2|131|5|"FL"|"Invoice # 4268"
+954|2005-12-27 10:55:39.993000000|2|79|5|"FL"|"Invoice # 4265"
+955|2005-12-28 05:34:46.740000000|2|135|5|"FL"|""
+956|2005-12-28 05:53:10.910000000|10|58|5|"FL"|""
+958|2006-01-03 08:56:21.057000000|2|78|5|"FL"|"Invoice # 4263"
+959|2006-01-03 10:42:57.680000000|3|47|5|"FL"|"Invoice # 4266"
+960|2006-01-03 12:01:40.813000000|2|24|5|"FL"|"Invoice 4316"
+961|2006-01-04 06:53:29.747000000|10|97|5|"FL"|"Invoice # 4264"
+962|2006-01-05 15:00:14.060000000|3|133|5|"FL"|"Invoice # 4267
+"
+963|2006-01-06 18:47:56.793000000|5|137|5|"CA"|"Invoice 4262"
+964|2006-01-08 03:57:00.933000000|2|105|1|"FL"|""
+967|2006-01-09 09:13:26.847000000|3|109|5|"FL"|"Invoice # 4278"
+968|2006-01-10 11:37:07.303000000|3|145|5|"FL"|"Invoice # 4280"
+969|2006-01-12 12:52:39.737000000|3|47|5|"FL"|"Invoice 4300"
+970|2006-01-12 13:33:15.673000000|10|131|5|"FL"|"Invoice # 4279"
+971|2006-01-13 09:14:16.593000000|10|66|5|"FL"|"invoice # 4281"
+973|2006-01-16 13:05:48.053000000|10|13|5|"FL"|"Invoice 4323"
+974|2006-01-16 21:38:44.230000000|5|2|5|"CA"|"Invoice 4273"
+975|2006-01-17 06:54:57.240000000|10|78|5|"FL"|"invoice # 4282"
+976|2006-01-18 08:16:28.950000000|3|147|5|"FL"|"Invoice # 4286
+"
+977|2006-01-19 09:17:56.767000000|3|133|5|"FL"|"Invoice # 4285"
+978|2006-01-19 11:30:54.910000000|10|97|5|"FL"|"Invoice # 4287
+"
+979|2006-01-19 12:44:35.107000000|2|100|5|"FL"|"Invoice # 4284"
+980|2006-01-19 15:26:38.057000000|2|31|5|"FL"|"Invoice # 4283"
+981|2006-01-23 06:49:11.610000000|3|139|5|"FL"|"Invoice 4320"
+982|2006-01-24 07:58:34.590000000|10|66|5|"FL"|"Invoice 4317"
+983|2006-01-24 08:56:17.637000000|2|79|5|"FL"|"Invoice 4321"
+985|2006-01-30 12:01:16.477000000|3|109|5|"FL"|"Invoice 4322"
+986|2006-01-30 14:10:41.513000000|3|131|5|"FL"|"Invoice 4319"
+987|2006-02-01 14:52:01.230000000|5|137|5|"CA"|"Invoice 4318"
+988|2006-02-02 13:34:08.357000000|2|78|5|"FL"|"Invoice 4315"
+989|2006-02-06 11:44:43.597000000|2|133|5|"FL"|"Invoice 4363"
+990|2006-02-07 05:33:08.157000000|16|78|5|"FL"|"Invoice 4331"
+991|2006-02-07 07:13:24.647000000|6|71|1|"TN"|""
+992|2006-02-09 10:32:15.647000000|2|127|5|"FL"|"Invoice 4333"
+993|2006-02-09 10:34:37.167000000|2|39|5|"FL"|"Invoice 4329"
+994|2006-02-09 15:48:56.827000000|10|79|5|"FL"|"Invoice 4335"
+996|2006-02-13 13:54:36.023000000|2|77|5|"FL"|"Invoice # 4388"
+997|2006-02-14 12:06:44.107000000|10|131|5|"FL"|"Invoice 4334"
+998|2006-02-14 12:13:12.203000000|2|24|5|"FL"|""
+999|2006-02-14 20:19:25.633000000|16|66|5|"FL"|"Invoice 4361"
+1001|2006-02-16 01:42:48.440000000|2|96|5|"FL"|"Invoice 4359"
+1002|2006-02-16 05:55:32.510000000|2|72|5|"FL"|"Invoice 4340"
+1003|2006-02-16 09:57:41.053000000|5|137|5|"CA"|"Invoice 4353"
+1004|2006-02-16 09:59:25.527000000|16|148|5|"FL"|"Invoice 4332"
+1005|2006-02-17 08:46:57.610000000|2|109|5|"FL"|"Invoice # 4377"
+1007|2006-02-22 12:37:29.700000000|10|72|5|"FL"|"Invoice 4360"
+1008|2006-02-23 13:57:54.337000000|2|78|5|"FL"|"Invoice 4357"
+1009|2006-02-24 08:13:16.313000000|10|103|5|"FL"|"Invoice 4365"
+1010|2006-02-27 08:45:10.987000000|10|131|5|"FL"|"Invoice 4362"
+1011|2006-03-01 13:57:45.290000000|2|72|1|"FL"|"Invoice 6007"
+1012|2006-03-02 08:07:54.817000000|10|13|5|"FL"|"Invoice 4364"
+1013|2006-03-02 10:52:50.277000000|2|143|5|"FL"|"Invoice # 4380"
+1014|2006-03-06 14:11:22.313000000|16|133|5|"FL"|"Invoice # 4383"
+1015|2006-03-07 11:29:08.593000000|10|47|5|"FL"|"Invoice # 4387"
+1016|2006-03-09 07:23:47.617000000|10|131|5|"FL"|"Invoice # 4381"
+1017|2006-03-09 09:35:30.067000000|16|66|5|"FL"|"Invoice 4379"
+1018|2006-03-10 08:39:11.117000000|2|79|5|"FL"|"Invoice # 4384"
+1019|2006-03-13 08:57:15.063000000|16|78|5|"FL"|"Invoice 4378"
+1021|2006-03-15 13:23:49.070000000|2|28|5|"FL"|"Invoice # 4382"
+1022|2006-03-16 20:20:29.367000000|5|137|5|"CA"|"Invoice 4399"
+1023|2006-03-17 07:25:04.537000000|17|139|5|"FL"|"Invoice # 4389"
+1024|2006-03-17 13:06:36.830000000|10|149|5|"FL"|"Invoice # 4385"
+1025|2006-03-20 11:33:33.283000000|10|13|5|"FL"|"Invoice # 4386"
+1026|2006-03-21 08:12:22.393000000|17|13|5|"FL"|"Invoice 4420"
+1027|2006-03-21 10:15:07.913000000|10|147|5|"FL"|"Invoice 4421"
+1028|2006-03-21 11:55:07.607000000|17|148|5|"FL"|"Invoice 4428"
+1029|2006-03-23 09:09:20.477000000|2|12|5|"FL"|"Invoice 4416"
+1030|2006-03-23 14:36:36.620000000|16|66|5|"FL"|"Invoice 4414"
+1032|2006-03-25 03:38:10.890000000|17|39|5|"FL"|"Invoice 4411"
+1033|2006-03-27 10:17:02.767000000|17|78|5|"FL"|"Invoice 4413"
+1034|2006-03-28 13:21:01.603000000|2|109|5|"FL"|"Invoice 4418"
+1035|2006-03-29 08:20:48.797000000|5|150|5|"CA"|"Invoice 4400"
+1036|2006-03-29 12:37:17.050000000|2|151|5|"FL"|"Invoice 4415"
+1037|2006-03-30 05:16:50.497000000|2|114|5|"FL"|""
+1038|2006-03-30 08:08:02.313000000|2|24|5|"FL"|""
+1039|2006-03-31 06:40:41.173000000|17|89|5|"FL"|"Invoice 4419"
+1040|2006-04-03 07:58:19.427000000|2|39|5|"FL"|"Invoice 4411"
+1041|2006-04-03 13:21:00.207000000|2|79|5|"FL"|"Invoice 4417"
+1042|2006-04-04 07:42:32.850000000|17|77|5|"FL"|"Invoice 4435"
+1043|2006-04-04 20:40:34.150000000|5|2|5|"CA"|"Invoice 4422"
+1044|2006-04-05 07:42:02.057000000|16|147|5|"FL"|"Invoice 4432"
+1045|2006-04-05 13:14:17.297000000|2|151|5|"FL"|"Invoice 4429"
+1046|2006-04-05 13:44:58.237000000|16|109|5|"FL"|"Invoice 4431"
+1047|2006-04-06 07:38:20.617000000|17|47|5|"FL"|"Invoice 4434"
+1049|2006-04-07 12:05:10.957000000|17|72|5|"FL"|"Invoice 4425"
+1050|2006-04-10 13:07:03.400000000|2|89|5|"FL"|"Invoice 4433"
+1051|2006-04-11 13:03:14.017000000|2|94|5|"FL"|"Invoice 4445"
+1052|2006-04-13 08:33:18.347000000|17|139|5|"FL"|"Invoice 4430"
+1053|2006-04-13 14:34:31.463000000|2|35|5|"FL"|"Invoice 4451"
+1054|2006-04-17 10:23:40.010000000|17|148|5|"FL"|"Invoice 4446"
+1055|2006-04-17 14:09:46.717000000|17|151|5|"FL"|"Invoice 4450"
+1056|2006-04-18 14:36:29.333000000|14|89|5|"FL"|"Invoice 4464"
+1057|2006-04-18 16:05:34.573000000|17|133|5|"FL"|"Invoice 4462"
+1058|2006-04-19 03:59:46.450000000|14|109|5|"FL"|"Invoice 4463"
+1059|2006-04-19 12:08:41.580000000|17|4|5|"FL"|"Invoice 4447"
+1061|2006-04-20 10:32:52.620000000|2|152|5|"FL"|"Invoice 4495"
+1062|2006-04-20 12:27:54.600000000|14|97|5|"FL"|"Invoice 4449"
+1063|2006-04-20 12:43:21.237000000|2|72|5|"FL"|"Invoice 4467"
+1064|2006-04-21 13:52:17.900000000|14|78|5|"FL"|"Invoice 4469"
+1065|2006-04-24 14:26:25.233000000|2|21|5|"FL"|"Invoice 4468"
+1066|2006-04-25 11:08:27.020000000|14|153|5|"FL"|"Invoice 4448"
+1067|2006-04-28 15:09:43.577000000|14|79|5|"FL"|"Invoice 4488"
+1068|2006-04-30 17:14:41.380000000|2|72|5|"FL"|"Invoice 4465"
+1070|2006-05-01 11:16:27.623000000|17|109|5|"FL"|"Invoice 4489"
+1071|2006-05-01 13:37:17.433000000|17|94|5|"FL"|"Invoice 4479"
+1072|2006-05-01 18:49:52.647000000|14|78|5|"FL"|"Invoice 4480"
+1073|2006-05-02 07:58:02.910000000|2|72|5|"FL"|"Invoice 4487"
+1074|2006-05-02 13:32:56.093000000|17|66|5|"FL"|"Invoice 4483"
+1075|2006-05-02 14:23:39.790000000|14|77|5|"FL"|"Invoice 4494"
+1076|2006-05-04 08:17:10.273000000|14|47|5|"FL"|"Invoice 4493"
+1077|2006-05-04 13:40:54.277000000|17|148|5|"FL"|"Invoice 4482"
+1078|2006-05-04 14:13:49.677000000|14|89|5|"FL"|"Invoice 4491"
+1079|2006-05-04 20:37:23.470000000|17|154|5|"FL"|"Invoice 4505"
+1080|2006-05-04 22:26:45.353000000|5|137|5|"CA"|"Invoice 4498"
+1081|2006-05-05 08:32:44.600000000|14|13|5|"FL"|"Invoice 4492"
+1082|2006-05-05 10:48:46.583000000|14|153|5|"FL"|"Invoice 4484"
+1083|2006-05-05 11:19:39.277000000|14|97|5|"FL"|"Invoice 4485"
+1084|2006-05-05 12:42:33.500000000|2|35|5|"FL"|"invoice 4486"
+1085|2006-05-08 12:56:03.440000000|2|155|5|"FL"|"Invoice 4481"
+1087|2006-05-13 07:11:37.907000000|14|147|5|"FL"|"Invoice 4490"
+1088|2006-05-15 07:10:14.170000000|2|13|5|"FL"|"Invoice 4525"
+1089|2006-05-15 12:21:02.190000000|14|47|5|"FL"|"Invoice 4506"
+1090|2006-05-15 14:12:51.790000000|17|139|5|"FL"|"Invoice 4520"
+1091|2006-05-15 16:21:52.103000000|17|66|5|"FL"|"Invoice 4535 and 4536"
+1092|2006-05-16 05:44:50.093000000|2|79|5|"FL"|"Invoice 4522"
+1093|2006-05-16 19:04:43.070000000|14|156|1|"FL"|""
+1094|2006-05-17 08:10:46.253000000|17|152|5|"FL"|"Invoice 4521"
+1095|2006-05-17 15:57:17.203000000|17|89|5|"FL"|"Invoice 4551"
+1096|2006-05-18 07:43:52.243000000|17|109|5|"FL"|"Invoice 4523"
+1097|2006-05-18 08:19:20.577000000|14|96|5|"FL"|"Invoice 4524"
+1098|2006-05-19 15:36:11.960000000|5|137|5|"CA"|"Invoice 4498"
+1099|2006-05-22 11:40:00.273000000|2|31|5|"FL"|"Invoice 4515"
+1100|2006-05-23 07:55:05.570000000|14|131|5|"FL"|"Invoice 4516"
+1102|2006-05-26 08:23:16.243000000|2|133|5|"FL"|"Invoice 4546"
+1103|2006-05-26 16:10:51.263000000|17|152|5|"FL"|"Invoice 4547"
+1104|2006-05-28 17:43:01.303000000|5|137|5|"CA"|"DW will be turning in milage expenses for this work order.
+
+Invoice 4504"
+1105|2006-05-29 03:43:06.460000000|17|72|5|"FL"|"Invoice 4518"
+1106|2006-05-29 18:07:33.810000000|14|153|5|"FL"|"Invoice 4545"
+1107|2006-05-30 10:42:35.680000000|17|66|5|"FL"|"Invoice 4543"
+1108|2006-06-01 09:31:46.063000000|17|120|5|"FL"|"Invoice 4542"
+1109|2006-06-01 14:15:50.157000000|17|79|5|"FL"|"Invoice 4548"
+1110|2006-06-02 10:34:11.547000000|17|109|5|"FL"|"Invoice 4549"
+1112|2006-06-06 11:41:39.810000000|14|13|5|"FL"|"Invoice 4552"
+1113|2006-06-07 23:09:39.370000000|5|137|5|"CA"|"Invoice 4554"
+1114|2006-06-07 23:09:47.793000000|5|2|5|"CA"|"4615"
+1115|2006-06-08 14:56:11.860000000|17|147|5|"FL"|"Invoice 4550"
+1116|2006-06-09 07:21:27.740000000|17|4|5|"FL"|"Invoice 4544"
+1117|2006-06-09 12:01:53.760000000|17|154|5|"FL"|"Invoice 4567"
+1118|2006-06-12 12:16:45.133000000|2|66|5|"FL"|"Invoice 4568 4569"
+1119|2006-06-12 14:07:56.687000000|17|78|5|"FL"|"Invoice 4566"
+1120|2006-06-13 06:30:44.093000000|14|79|5|"FL"|"Invoice 4573"
+1121|2006-06-13 07:38:45.343000000|2|24|5|"FL"|""
+1122|2006-06-13 11:13:24.453000000|14|96|5|"FL"|"Invoice 4576"
+1123|2006-06-13 13:06:16.980000000|14|109|5|"FL"|"Invoice 4574"
+1124|2006-06-16 09:23:45.167000000|14|89|5|"FL"|"Invoice 4575"
+1125|2006-06-16 14:40:23.637000000|17|133|5|"FL"|"Invoice 4571"
+1126|2006-06-20 11:23:57.107000000|14|78|5|"FL"|"Invoice 4566"
+1127|2006-06-20 11:43:47.890000000|2|35|5|"FL"|"Invoice 4570"
+1128|2006-06-20 13:47:38.860000000|14|152|5|"FL"|"Invoice 4572"
+1129|2006-06-20 14:51:46.993000000|17|123|5|"FL"|"Invoice 4565"
+1130|2006-06-24 15:26:44.300000000|14|78|5|"FL"|"Invoice 4597"
+1131|2006-06-25 14:15:13.267000000|17|154|5|"FL"|"Invoice 4598"
+1132|2006-06-25 15:34:41.307000000|17|109|5|"FL"|"Invoice 4606"
+1133|2006-06-26 07:52:19.200000000|17|66|5|"FL"|"Invoice 4608"
+1134|2006-06-26 11:47:25.937000000|17|123|5|"FL"|"Invoice 4596"
+1136|2006-06-26 12:14:37.093000000|2|79|5|"FL"|"Invoice 4605"
+1137|2006-06-26 12:19:24.133000000|14|152|5|"FL"|"Invoice 4604"
+1138|2006-06-26 13:08:08.823000000|17|139|5|"FL"|"Invoice 4603"
+1139|2006-06-27 13:23:13.643000000|2|12|5|"FL"|"Invoice 4601"
+1140|2006-07-03 08:09:26.180000000|2|89|5|"FL"|"Invoice 4607"
+1141|2006-07-06 13:22:56.337000000|14|133|5|"FL"|"Invoice 4602"
+1142|2006-07-07 08:09:19.540000000|2|47|5|"FL"|"Invoice 4599"
+1143|2006-07-07 08:56:20.600000000|14|131|5|"FL"|"Invoice 4600"
+1144|2006-07-07 11:55:13.927000000|2|24|5|"FL"|""
+1145|2006-07-10 09:31:20.113000000|14|31|5|"FL"|"Invoice 4624"
+1146|2006-07-10 11:09:48.733000000|2|155|5|"FL"|"Invoice 4621"
+1147|2006-07-10 12:56:50.830000000|17|13|5|"FL"|"Invoice 4636"
+1148|2006-07-10 14:14:45.590000000|14|47|5|"FL"|"Invoice 4623"
+1149|2006-07-11 06:55:27.330000000|14|79|5|"FL"|"Invoice 4633"
+1150|2006-07-11 07:28:56.627000000|17|131|5|"FL"|"Invoice 4629"
+1151|2006-07-11 07:31:17.663000000|17|109|5|"FL"|"Invoice 4634"
+1152|2006-07-11 07:51:57.883000000|2|157|5|"FL"|"Invoice 4628"
+1153|2006-07-11 14:08:56.640000000|2|120|5|"FL"|"Invoice 4680"
+1154|2006-07-11 22:46:05.823000000|17|66|5|"FL"|"Invoice 4625"
+1155|2006-07-12 05:18:40.237000000|17|89|5|"FL"|"Invoice 4635"
+1156|2006-07-12 14:09:34.343000000|14|133|5|"FL"|"Invoice 4632"
+1157|2006-07-13 07:04:03.207000000|14|78|5|"FL"|"Invoice 4620"
+1158|2006-07-13 11:03:14.647000000|17|154|5|"FL"|"Invoice 4622"
+1159|2006-07-14 11:58:37.870000000|17|4|5|"FL"|"Invoice 4626"
+1160|2006-07-14 13:15:03.903000000|17|12|5|"FL"|"Invoice 4631"
+1161|2006-07-17 10:34:28.153000000|17|94|5|"FL"|"Invoice 4618"
+1162|2006-07-17 21:11:09.207000000|17|151|5|"FL"|"Invoice 4630"
+1164|2006-07-19 13:44:44.860000000|17|123|5|"FL"|"Invoice 4619"
+1165|2006-07-19 13:52:56.423000000|5|2|5|"CA"|"Invoice 4681"
+1167|2006-07-20 13:06:19.890000000|6|102|5|"TN"|"4718
+CAF has been emailed to you."
+1168|2006-07-20 17:06:14.100000000|14|153|5|"FL"|"Invoice 4627"
+1169|2006-07-21 13:14:31.827000000|14|118|5|"FL"|"Invoice 4677"
+1170|2006-07-21 13:27:18.983000000|5|137|5|"CA"|"Invoice 4714"
+1171|2006-07-23 07:12:08.410000000|14|66|5|"FL"|"Invoice 4703"
+1173|2006-07-24 08:48:34.470000000|2|79|5|"FL"|"Invoice 4709"
+1174|2006-07-24 09:07:41.093000000|14|131|5|"FL"|"Invoice 4671"
+1175|2006-07-25 07:01:09.477000000|14|153|5|"FL"|"Invoice 4669"
+1176|2006-07-25 07:41:28.810000000|17|109|5|"FL"|"Invoice 4674"
+1177|2006-07-25 08:51:34.143000000|14|103|5|"FL"|"Invoice 4676"
+1178|2006-07-25 14:16:14.440000000|17|78|5|"FL"|"Invoice 4666"
+1179|2006-07-25 14:17:19.317000000|17|147|5|"FL"|"Invoice 4666"
+1180|2006-07-26 08:15:18.793000000|17|13|5|"FL"|"Invoice 4675"
+1182|2006-07-27 10:09:06.683000000|18|21|5|"FL"|"Invoice 4668"
+1183|2006-07-28 12:51:09.317000000|17|12|5|"FL"|"Invoice 4672"
+1184|2006-07-28 14:44:28.170000000|17|154|5|"FL"|"Invoice 4667"
+1187|2006-08-01 08:09:18.033000000|10|123|5|"FL"|"Invoice 4665"
+1188|2006-08-02 02:27:12.977000000|2|114|5|"FL"|"Invoice 4662"
+1189|2006-08-03 09:45:59.913000000|2|157|5|"FL"|"Invoice 4670"
+1190|2006-08-03 11:56:51.763000000|17|133|5|"FL"|"Invoice 4673"
+1191|2006-08-04 09:14:27.877000000|17|158|5|"FL"|"Invoice 4698"
+1192|2006-08-04 11:09:21.017000000|2|109|5|"FL"|"Invoice 4710"
+1195|2006-08-08 07:29:49.467000000|17|4|5|"FL"|"Invoice 4747"
+1196|2006-08-08 08:35:29.480000000|14|153|5|"FL"|"Invoice 4705"
+1197|2006-08-08 13:08:41.080000000|2|89|5|"FL"|"Invoice 4711"
+1199|2006-08-09 14:57:06.530000000|14|118|5|"FL"|"Invoice 4707"
+1200|2006-08-09 15:05:17.690000000|17|159|5|"FL"|"Invoice 4701"
+1201|2006-08-10 10:24:32.373000000|14|77|5|"FL"|"Invoice 4713"
+1202|2006-08-10 11:14:39.550000000|17|21|5|"FL"|"Invoice 4700"
+1203|2006-08-10 12:33:44.720000000|14|131|5|"FL"|"Invoice 4706"
+1204|2006-08-11 07:38:21.543000000|17|133|5|"FL"|"Invoice 4708"
+1205|2006-08-11 09:27:38.787000000|17|154|5|"FL"|"Invoice 4699"
+1206|2006-08-15 07:08:36.340000000|17|78|5|"FL"|"Invoice 4697"
+1207|2006-08-16 05:24:17.440000000|2|160|5|"FL"|"Invoice 4818"
+1208|2006-08-16 06:40:10.847000000|2|123|5|"FL"|"Invoice 4696"
+1209|2006-08-16 09:51:10.017000000|17|148|5|"FL"|"Invoice 4702"
+1210|2006-08-17 12:47:45.850000000|2|120|1|"FL"|""
+1211|2006-08-18 08:51:43.413000000|2|127|5|"FL"|"Invoice 4704"
+1212|2006-08-18 14:26:07.597000000|2|13|5|"FL"|"Invoice 4712"
+1213|2006-08-22 08:35:54.963000000|17|148|5|"FL"|"Invoice 4745"
+1214|2006-08-22 10:45:22.990000000|2|13|5|"FL"|"Invocie 4750"
+1215|2006-08-22 11:02:12.660000000|17|78|5|"FL"|"Invoice 4742"
+1216|2006-08-22 11:05:38.500000000|17|94|5|"FL"|"Invoice 4725"
+1218|2006-08-23 12:00:12.093000000|17|151|5|"FL"|"invoicce 4748"
+1219|2006-08-23 12:50:01.810000000|17|154|5|"FL"|"Invoice 4743"
+1220|2006-08-23 13:14:38.297000000|17|123|5|"FL"|"Invoice 4741"
+1221|2006-08-24 05:20:15|2|39|5|"FL"|""
+1222|2006-08-24 05:30:54.530000000|14|21|5|"FL"|"Invoice 4724"
+1223|2006-08-24 08:23:37.827000000|17|89|5|"FL"|"Invoice 4749"
+1224|2006-08-24 18:10:26.230000000|14|77|5|"FL"|"invoice 4751"
+1225|2006-08-24 19:23:11.363000000|17|79|5|"FL"|"Invoice 4755"
+1226|2006-08-25 05:14:40.377000000|2|66|5|"FL"|"Invoicce 4746"
+1227|2006-08-28 06:19:52.857000000|17|47|5|"FL"|"Invoice 4744"
+1228|2006-08-30 07:05:01.037000000|17|154|5|"FL"|"Invoice 4743"
+1229|2006-08-30 08:17:14.480000000|17|161|5|"FL"|"Invoice 4756"
+1231|2006-08-31 07:47:16.897000000|14|162|5|"FL"|"Invoice 4753"
+1232|2006-09-05 09:04:19.577000000|18|114|5|"FL"|"Invoice 4771"
+1233|2006-09-05 09:44:08.013000000|14|160|5|"FL"|""
+1234|2006-09-05 11:23:36.327000000|17|133|5|"FL"|"Invoice 4768"
+1235|2006-09-05 13:45:31.113000000|2|148|5|"FL"|"Invoice 4764"
+1236|2006-09-05 13:46:18.147000000|2|79|5|"FL"|"Invoice 4769"
+1237|2006-09-06 10:02:10.660000000|17|4|5|"FL"|"Invoice 4766"
+1238|2006-09-06 12:40:10.597000000|17|161|5|"FL"|"Invoice 4774"
+1239|2006-09-07 05:22:11.863000000|2|13|5|"FL"|"Invoice 4773"
+1240|2006-09-07 07:45:28.440000000|2|158|5|"FL"|"Invoice 4761"
+1241|2006-09-07 08:26:19.203000000|2|89|5|"FL"|"Invoice 4772"
+1242|2006-09-11 11:36:47.563000000|17|154|5|"FL"|"Invoice 4762"
+1243|2006-09-11 12:14:03.650000000|17|109|5|"FL"|"Invoice 4770"
+1244|2006-09-11 14:45:49.493000000|17|47|5|"FL"|"Invoice 4763"
+1245|2006-09-12 09:18:42.333000000|2|72|5|"FL"|"Invoice 4775"
+1246|2006-09-13 10:19:25.400000000|17|94|5|"FL"|"Invoice 4760"
+1247|2006-09-13 10:19:34.323000000|17|97|5|"FL"|"invoice 4767"
+1248|2006-09-15 09:43:15.107000000|17|161|5|"FL"|"Invoice 4806"
+1249|2006-09-15 13:18:37.707000000|17|109|5|"FL"|"Invoice 4804"
+1250|2006-09-18 09:12:49.273000000|17|154|5|"FL"|"Invoice 4797"
+1251|2006-09-18 12:05:28.123000000|2|24|5|"FL"|""
+1253|2006-09-20 13:10:22.610000000|17|163|5|"FL"|""
+1254|2006-09-20 18:38:38.120000000|17|133|5|"FL"|"Invoice 4802"
+1255|2006-09-22 07:15:36.203000000|14|66|5|"FL"|"Invoice 4799"
+1256|2006-09-25 12:10:21.110000000|14|131|5|"FL"|"Invoice 4800"
+1257|2006-09-25 14:01:46.707000000|14|145|5|"FL"|"Invoice 4801"
+1258|2006-09-25 14:25:04.437000000|2|89|5|"FL"|"Invoice 4805"
+1259|2006-09-26 08:03:35.843000000|14|133|5|"FL"|"Invoice 4802"
+1260|2006-09-26 08:48:08.860000000|2|21|5|"FL"|"Invoice 4798"
+1261|2006-10-02 11:15:35.113000000|17|154|5|"FL"|"Invoice 4842"
+1262|2006-10-02 12:55:53.717000000|17|133|5|"FL"|"Invoice 4850"
+1263|2006-10-03 13:19:28.087000000|14|160|5|"FL"|"Invoice 4860"
+1264|2006-10-03 14:22:58.907000000|17|66|5|"FL"|"Invoice 4844"
+1265|2006-10-04 19:36:16.373000000|17|109|5|"FL"|"Invoice 4852"
+1266|2006-10-09 15:21:56.457000000|2|24|5|"FL"|""
+1267|2006-10-10 17:05:07.787000000|2|35|5|"FL"|"Invoice 4849"
+1268|2006-10-13 08:40:25.877000000|18|160|5|"FL"|"invoice 4865"
+1269|2006-10-16 10:58:18.147000000|17|4|5|"FL"|"Invoice 4846"
+1270|2006-10-17 08:07:27.733000000|14|127|5|"FL"|"Invoice 4845"
+1271|2006-10-18 14:28:34.387000000|17|13|5|"FL"|"Invoice 4853"
+1272|2006-10-19 09:50:56.470000000|14|131|5|"FL"|"Invoice 4847"
+1273|2006-10-20 09:09:16.760000000|14|152|5|"FL"|"Invoice 4851"
+1274|2006-10-20 12:53:53.983000000|17|78|5|"FL"|"Invoice 4841"
+1275|2006-10-23 16:54:42.760000000|5|2|5|"CA"|"Invoice 4839"
+1276|2006-10-26 13:29:27.900000000|14|47|5|"FL"|"Invoice 4843"
+1277|2006-10-30 08:40:49.070000000|17|151|5|"FL"|"Invoice 4848"
+1278|2006-10-30 12:50:27.347000000|2|21|5|"FL"|""
+1279|2006-10-30 19:03:31.830000000|14|118|5|"FL"|""
+1280|2006-11-02 13:23:32.857000000|2|31|5|"FL"|"Invoice 4867"
+1281|2006-11-06 13:35:31.353000000|17|58|5|"FL"|"Invoice 4840"
+1282|2006-11-06 15:32:37.450000000|17|13|5|"FL"|"Invoice 4878"
+1283|2006-11-06 17:40:51.630000000|6|102|5|"TN"|"4858"
+1284|2006-11-07 07:15:17.257000000|2|24|5|"FL"|""
+1286|2006-11-07 21:28:37.150000000|17|4|5|"FL"|"Invoice 4869"
+1287|2006-11-07 21:30:25.857000000|17|109|5|"FL"|"Invoice 4877"
+1288|2006-11-08 07:11:35.063000000|2|35|5|"FL"|"Invoice 4873"
+1289|2006-11-08 11:09:04.267000000|14|154|5|"FL"|"Invoice 4866"
+1290|2006-11-08 11:40:09.307000000|17|157|5|"FL"|"Invoice 4870"
+1291|2006-11-10 14:21:18.077000000|17|165|5|"FL"|"Invoice 4874"
+1292|2006-11-14 09:07:57.277000000|17|139|5|"FL"|"Invoice 4875"
+1293|2006-11-14 18:50:31.673000000|5|2|5|"CA"|"Invoice 4859"
+1294|2006-11-16 02:48:33.770000000|2|160|5|"FL"|""
+1295|2006-11-16 13:59:24.987000000|14|131|5|"FL"|"Invoice 4871"
+1296|2006-11-16 14:29:03.710000000|17|66|5|"FL"|"Invoice 4868"
+1297|2006-11-17 12:49:00.047000000|17|123|5|"FL"|"Invoice 4864"
+1298|2006-11-17 14:40:09.833000000|17|152|5|"FL"|"Invoice 4876"
+1300|2006-11-21 08:46:09.160000000|1|132|5|"CA"|"I completed the work while at the offsite managers meeting
+
+Invoice 4890"
+1301|2006-11-24 12:18:18.973000000|2|145|5|"FL"|"Invoice 4872"
+1302|2006-11-27 09:37:34.067000000|5|2|5|"CA"|"Invoice 4961"
+1303|2006-11-27 13:45:42.123000000|17|109|5|"FL"|"Invoice 4929"
+1304|2006-11-27 16:53:46.103000000|2|66|5|"FL"|"Invoice 4919"
+1305|2006-11-28 12:54:44.907000000|17|13|5|"FL"|"Invoice 4930"
+1306|2006-11-28 19:23:38.850000000|17|4|5|"FL"|"Invoice 4921"
+1307|2006-11-29 11:33:02.943000000|17|166|5|"FL"|"Invoice 4917"
+1308|2006-11-29 14:02:41.930000000|17|139|5|"FL"|"Invoice 4928"
+1309|2006-11-30 12:10:18.493000000|14|118|5|"FL"|"Invoice 4924"
+1310|2006-11-30 12:37:11.727000000|17|154|5|"FL"|"Invoice 4916"
+1311|2006-12-01 12:49:52.073000000|6|167|5|"TN"|"4939"
+1312|2006-12-04 06:13:41.310000000|2|35|5|"FL"|"Invoice 4925"
+1313|2006-12-04 06:17:39.837000000|2|31|5|"FL"|"Invoice 4918"
+1314|2006-12-04 07:23:00.800000000|18|114|5|"FL"|"Invoice 4892"
+1315|2006-12-05 13:39:52.947000000|17|165|5|"FL"|"Invoice 4927"
+1317|2006-12-05 20:03:33.807000000|17|157|5|"FL"|"Invoice 4922"
+1319|2006-12-11 10:52:30.067000000|14|131|5|"FL"|"Invoice 4923"
+1320|2006-12-12 14:41:49.293000000|14|24|5|"FL"|"Invoice 4933"
+1321|2006-12-14 09:02:07.637000000|14|103|5|"FL"|"Invoice 4931"
+1323|2006-12-20 07:32:32.827000000|17|143|5|"FL"|"Invoice 4920"
+1324|2006-12-20 13:17:27.147000000|17|58|5|"FL"|"Invoice 4915"
+1325|2006-12-20 14:10:57.557000000|17|161|5|"FL"|"Invoice 4932"
+1326|2006-12-21 13:43:42.107000000|17|133|5|"FL"|"Invoice 4926"
+1327|2006-12-27 14:11:40.263000000|2|13|5|"FL"|"Invoice 4957"
+1328|2006-12-28 12:27:03.387000000|14|24|5|"FL"|"Invoice 4946"
+1329|2006-12-29 10:13:51.673000000|14|131|5|"FL"|"Invoice 4950"
+1330|2006-12-29 11:37:32.263000000|17|139|5|"FL"|"Invoice 4954"
+1331|2007-01-02 06:28:54.163000000|18|91|5|"FL"|""
+1332|2007-01-02 06:33:47.460000000|18|124|1|"FL"|""
+1333|2007-01-02 06:48:05.263000000|21|66|5|"FL"|"Invoice 4947"
+1334|2007-01-02 12:11:48.327000000|21|123|5|"FL"|"Invoice 4942"
+1335|2007-01-02 15:32:22.550000000|17|109|5|"FL"|"Invoice 4956"
+1336|2007-01-03 13:06:39.507000000|17|94|5|"FL"|"Invoice 4941"
+1337|2007-01-04 12:09:44.930000000|21|79|5|"FL"|"Invoice 4955"
+1338|2007-01-04 12:11:02.040000000|14|103|5|"FL"|"Invoice 4958"
+1339|2007-01-04 12:50:00.033000000|17|166|5|"FL"|"Invoice 4944"
+1340|2007-01-05 11:34:04.653000000|2|168|5|"FL"|"Invoice 4953"
+1341|2007-01-05 12:08:02.323000000|17|169|5|"FL"|"Invoice 4949"
+1342|2007-01-08 14:08:08.647000000|6|102|5|"TN"|"Invoice 4940"
+1343|2007-01-08 14:20:36.527000000|6|102|5|"TN"|"Invoice 5004"
+1345|2007-01-10 07:37:20.600000000|21|143|5|"FL"|"Invoice 4948"
+1346|2007-01-10 10:31:44.307000000|17|154|5|"FL"|"Invoice 4943"
+1348|2007-01-11 10:56:16.117000000|14|118|5|"FL"|"Invoice 4952"
+1349|2007-01-11 15:30:48.080000000|17|170|5|"FL"|"Invoice 4945"
+1350|2007-01-12 07:22:31.073000000|21|151|5|"FL"|"Invoice 4951"
+1351|2007-01-15 07:53:46.427000000|17|170|5|"FL"|"invoice 4965"
+1352|2007-01-15 12:51:42.957000000|2|109|5|"FL"|"Invoice 4971"
+1353|2007-01-16 08:29:23.880000000|17|77|5|"FL"|"Invoice 4975"
+1354|2007-01-16 09:39:58.687000000|17|103|5|"FL"|"Invoice 4973"
+1355|2007-01-16 11:34:24.840000000|17|145|5|"FL"|"Invoice 4968"
+1356|2007-01-16 13:21:09.257000000|21|13|5|"FL"|"Invoice 4977"
+1357|2007-01-16 14:13:43.417000000|17|139|5|"FL"|"Invoice 4969"
+1358|2007-01-17 07:08:10.387000000|17|24|5|"FL"|"Invoice 4980"
+1360|2007-01-18 06:51:24.400000000|21|171|5|"FL"|"Invoice 4972"
+1361|2007-01-18 08:44:15.910000000|17|161|5|"FL"|"Invoice 4974"
+1362|2007-01-18 10:01:56.533000000|21|79|5|"FL"|"Invoice 4970"
+1363|2007-01-18 11:20:47.863000000|17|133|5|"FL"|"Invoice 4976"
+1364|2007-01-19 07:37:26.417000000|18|143|1|"FL"|""
+1365|2007-01-22 08:16:45.077000000|17|66|5|"FL"|"Invoice 4966"
+1366|2007-01-22 14:08:07.927000000|17|166|5|"FL"|"Invoice 4964"
+1367|2007-01-23 09:05:17.893000000|14|28|5|"FL"|"Invoice 4967"
+1368|2007-01-25 11:03:01.837000000|14|139|5|"FL"|"Invoice 5001"
+1369|2007-01-26 08:38:23.430000000|21|13|5|"FL"|"Invoice 5003"
+1370|2007-01-26 14:43:28.140000000|17|154|5|"FL"|"Invoice 4996"
+1371|2007-01-29 14:06:46.763000000|21|79|5|"FL"|"Invoice 5002"
+1372|2007-01-29 15:08:01.223000000|21|123|5|"FL"|"Invoice 4995"
+1373|2007-01-30 09:28:49.103000000|14|145|5|"FL"|"Invoice 4998"
+1376|2007-01-31 13:27:33.087000000|14|118|5|"FL"|"invoice 4999"
+1377|2007-02-01 07:19:38.110000000|14|172|5|"FL"|"Invoice 4997"
+1379|2007-02-01 09:37:23.960000000|14|133|5|"FL"|"Invoice 5000"
+1380|2007-02-04 22:08:09.723000000|21|13|5|"FL"|"Invoice 5046"
+1381|2007-02-05 06:34:38.067000000|18|91|5|"FL"|"Invoice 5034"
+1382|2007-02-05 08:23:18.513000000|21|79|5|"FL"|"invoice 5040"
+1383|2007-02-05 08:59:11.373000000|21|91|5|"FL"|"Invoice 5034"
+1384|2007-02-05 09:01:13.107000000|21|91|5|"FL"|"Invoice 5034"
+1385|2007-02-05 12:54:57.553000000|17|109|5|"FL"|"Invoice 5043"
+1386|2007-02-05 13:58:28.717000000|17|139|5|"FL"|"Invoice 5042"
+1387|2007-02-05 14:25:48.123000000|21|66|5|"FL"|"Invoice 5016-R"
+1388|2007-02-06 06:49:07.087000000|17|24|5|"FL"|"Invoice 5035"
+1389|2007-02-06 15:42:08.960000000|14|118|5|"FL"|"Invoice 5038"
+1390|2007-02-07 09:11:45.173000000|21|47|5|"FL"|"Invoice 5030"
+1391|2007-02-08 08:38:53.360000000|14|72|5|"FL"|"Invoice 5015"
+1392|2007-02-08 08:53:59.497000000|14|91|5|"FL"|"Invoice 5034"
+1393|2007-02-08 09:31:12.253000000|14|133|5|"FL"|"Invoice 5039"
+1394|2007-02-08 09:53:09.187000000|14|135|5|"FL"|"Invoice 5041"
+1395|2007-02-08 10:36:16.990000000|17|58|5|"FL"|"Invoice 5031"
+1396|2007-02-08 13:49:07.527000000|14|173|5|"FL"|"Invoice 5036"
+1397|2007-02-09 06:43:46.897000000|14|154|5|"FL"|"Invoice 5059"
+1398|2007-02-09 14:32:57.320000000|5|2|5|"CA"|"Invoice 5051"
+1399|2007-02-12 07:00:13.383000000|17|123|5|"FL"|"Invoice 5032"
+1400|2007-02-13 12:53:20.330000000|5|150|5|"CA"|"Invoice 5006"
+1401|2007-02-13 13:42:19.680000000|6|174|5|"TN"|"Invoice 5007"
+1402|2007-02-13 20:20:33.317000000|14|140|5|"FL"|"Invoice 5033"
+1403|2007-02-16 16:15:11.440000000|17|145|5|"FL"|"Invoice 5037"
+1404|2007-02-26 06:13:33.423000000|14|166|5|"FL"|"Invoice 5029"
+1405|2007-02-26 09:46:02.810000000|17|175|5|"FL"|""
+1406|2007-02-26 14:34:34.670000000|2|135|1|"FL"|""
+1408|2007-02-28 08:43:06.517000000|21|171|5|"FL"|"Invoice 5072"
+1409|2007-02-28 10:56:40.770000000|14|79|5|"FL"|"Invoice 5069"
+1410|2007-02-28 20:46:37.850000000|14|133|5|"FL"|"Invoice 5067"
+1411|2007-02-28 20:47:37.990000000|14|103|5|"FL"|"Invoice 5074"
+1412|2007-03-01 07:36:19.907000000|21|66|5|"FL"|"Invoice 5063"
+1413|2007-03-01 10:06:23.740000000|14|109|5|"FL"|"Invoice 5070"
+1414|2007-03-01 13:57:19.013000000|3|118|5|"FL"|"Invoice 5066"
+1415|2007-03-02 09:14:52.197000000|21|13|5|"FL"|"Invoice 5073"
+1416|2007-03-02 12:37:46.447000000|21|145|5|"FL"|"Invoice 5065"
+1417|2007-03-05 07:35:53.763000000|21|166|5|"FL"|"Invoice 5061"
+1418|2007-03-05 20:20:24.630000000|14|173|5|"FL"|"Invoice 5064"
+1419|2007-03-06 20:24:29.477000000|17|78|5|"FL"|"Invoice 5058"
+1420|2007-03-06 20:35:26.590000000|17|139|5|"FL"|"Invoice 5068"
+1421|2007-03-08 08:06:24.623000000|17|24|5|"FL"|"Invoice 5062"
+1422|2007-03-08 08:54:47.767000000|17|161|5|"FL"|"Invoice 5075"
+1425|2007-03-10 07:38:32.830000000|3|123|5|"FL"|"Invoice 5057"
+1426|2007-03-10 07:39:30.847000000|3|47|5|"FL"|"Invoice 5060"
+1427|2007-03-10 07:40:13.673000000|3|77|5|"FL"|"Invoice 5076"
+1429|2007-03-15 17:32:34.097000000|14|96|5|"FL"|"Invoice 5071"
+1430|2007-03-15 19:01:02.430000000|3|39|5|"FL"|"Invoice 5056"
+1431|2007-03-17 14:04:33.883000000|14|103|5|"FL"|"invoice 5113"
+1432|2007-03-19 06:46:01.050000000|2|109|5|"FL"|"Invoice 5111"
+1433|2007-03-19 12:35:23.227000000|17|133|5|"FL"|"Invoice 5108"
+1434|2007-03-20 08:01:58.597000000|2|4|5|"FL"|"Invoice 5107"
+1435|2007-03-20 11:21:03.950000000|3|24|5|"FL"|"Invoice 5105"
+1436|2007-03-20 11:47:28.487000000|17|165|5|"FL"|""
+1437|2007-03-20 14:02:19.220000000|17|161|5|"FL"|"Invoice 5114"
+1438|2007-03-21 14:36:58.933000000|17|166|5|"FL"|"Transferred these hours against Crown's contract.  Did not invoice for this work order."
+1439|2007-03-22 17:39:00.750000000|3|79|5|"FL"|"-Created Windows Accounts for 2 Users (AAshley & TNeilan)
+-Copied profiles for each user to new user account
+-Copied Transportation profile to CDavis user account
+-Copied SDuprey profile from 1 PC to another
+-Relocated PC from scanner to SDuprey's desk
+-Installed and configured network printer for ""I"" Dock
+-Installed Microsoft DST patch for JPatterson
+-Resest FireFox as default browser for LVernon
+-Configured Shelly's PC for label printing
+-Installed switch in ""I"" Dock for multiple network devices 
+
+**Note**
+CRC errors were encountered on ""I"" Dock PC and SDuprey's PC during normal operation. informed Erica as to occurance. Erica requested specifications for new PC purchase. Instructed to reimage SDuprey's PC. Software will be picked up on 3/23. Reimage PC NLT COB 3/26. Accu-plus needs to be contacted in regards to configuration of ""I"" Dock network printer inside of Vision.
+
+Invoice 5115"
+1441|2007-03-26 14:55:19.137000000|3|139|5|"FL"|"Invoice 5109"
+1442|2007-03-27 11:28:46.150000000|2|66|5|"FL"|"Invoice 5106"
+1443|2007-03-27 14:07:50.100000000|17|154|5|"FL"|"Invoice 5104"
+1444|2007-03-29 08:54:10.443000000|2|13|5|"FL"|"Invoice 5112"
+1445|2007-03-29 12:10:52.487000000|17|152|5|"FL"|"Invoice 5110"
+1446|2007-04-02 12:34:49.937000000|17|157|5|"FL"|""
+1447|2007-04-02 22:41:05.220000000|5|2|5|"CA"|"Invoice 5098"
+1448|2007-04-02 22:43:26.567000000|5|150|5|"CA"|"Invoice 5099"
+1449|2007-04-04 06:08:32.710000000|2|166|1|"FL"|""
+1450|2007-04-04 06:17:00.870000000|2|47|1|"FL"|""
+1451|2007-04-04 07:28:08.613000000|3|66|5|"FL"|"Invoice 5127"
+1453|2007-04-04 13:43:36.687000000|2|103|5|"FL"|"Invoice 5134"
+1454|2007-04-04 14:47:33.830000000|3|109|5|"FL"|"Invoice 5132"
+1455|2007-04-05 16:22:36.670000000|17|173|5|"FL"|"Invoice 5128"
+1456|2007-04-05 20:42:24.887000000|14|177|5|"FL"|"This is billed to ProPak
+Invoice 5123"
+1457|2007-04-06 06:40:23.287000000|3|176|5|"FL"|"Invoice 5129"
+1458|2007-04-09 07:41:22.047000000|14|118|5|"FL"|"Invoice 5131"
+1459|2007-04-10 10:24:45.190000000|17|79|5|"FL"|"Invoice 5135"
+1460|2007-04-10 12:56:31.433000000|17|154|5|"FL"|"Invoice 5125"
+1461|2007-04-10 13:01:26.373000000|17|145|5|"FL"|"Invoice 5130"
+1462|2007-04-11 07:14:49.233000000|2|24|5|"FL"|"Invoice 5126"
+1463|2007-04-12 14:17:33.860000000|17|13|5|"FL"|"Invoice 5133"
+1464|2007-04-15 04:26:16.067000000|2|13|5|"FL"|"Invoice 5156"
+1465|2007-04-16 07:22:32.010000000|17|109|5|"FL"|"Invoice 5155"
+1466|2007-04-16 08:58:30.803000000|17|139|5|"FL"|"Invoice 5152"
+1467|2007-04-16 13:04:13.830000000|17|173|5|"FL"|"Invoice 5147"
+1468|2007-04-16 14:19:54.797000000|17|152|5|"FL"|"Invoice 5153"
+1469|2007-04-16 14:22:17.877000000|17|24|5|"FL"|"Invoice 5157"
+1470|2007-04-17 13:27:02.150000000|2|79|5|"FL"|"Invoice 5154"
+1471|2007-04-19 01:11:16.623000000|2|178|5|"FL"|"Invoice 5150"
+1472|2007-04-19 15:00:29.040000000|17|66|5|"FL"|"Invoice 5146"
+1473|2007-04-23 12:16:52.793000000|17|154|5|"FL"|"invoice 5145"
+1474|2007-04-24 07:53:49.603000000|17|4|5|"FL"|"Invoice 5149"
+1475|2007-04-26 06:09:58.800000000|6|102|5|"TN"|"Invoice 5196"
+1476|2007-04-26 09:48:32.890000000|14|133|5|"FL"|"Invoice 5151"
+1477|2007-04-27 14:25:33.943000000|5|2|5|"CA"|"Invoice 5167"
+1478|2007-04-28 01:56:44.037000000|2|21|5|"FL"|"invoice 5145"
+1479|2007-04-30 03:49:08.680000000|14|159|5|"FL"|"Invoice 5181"
+1480|2007-04-30 08:34:41.773000000|14|79|5|"FL"|"Invoice 5184"
+1481|2007-05-01 08:51:16.347000000|17|139|5|"FL"|"Invoice 5185"
+1483|2007-05-01 16:33:42.043000000|17|109|5|"FL"|"Invoice 5186"
+1484|2007-05-01 21:26:34.783000000|17|161|5|"FL"|"Invoice 5188"
+1485|2007-05-02 10:09:54.320000000|3|13|5|"FL"|"Invoice 5187"
+1486|2007-05-03 11:17:50.283000000|17|94|5|"FL"|"Invoice 5179"
+1487|2007-05-03 12:51:20.927000000|17|145|5|"FL"|"Invoice 5183"
+1489|2007-05-05 19:37:52.043000000|22|102|5|"TN"|"Invoice 5175"
+1491|2007-05-08 13:16:27.980000000|17|154|5|"FL"|"Invoice 5180"
+1492|2007-05-09 04:27:28.730000000|2|91|1|"FL"|""
+1493|2007-05-10 09:07:56.433000000|2|24|5|"FL"|"Invoice 5182"
+1494|2007-05-10 09:34:19.447000000|17|173|5|"FL"|"Invoice 5228"
+1495|2007-05-12 03:10:27.120000000|2|39|1|"FL"|""
+1496|2007-05-12 10:02:00.167000000|2|109|5|"FL"|"Invoice 5226"
+1497|2007-05-14 13:08:11.400000000|17|161|5|"FL"|"Invoice 5224"
+1499|2007-05-14 14:23:55.233000000|17|170|5|"FL"|"Invoice 5213"
+1500|2007-05-15 11:33:07.233000000|17|13|5|"FL"|"Invoice 5225"
+1501|2007-05-15 21:05:51.090000000|17|133|5|"FL"|"Invoice 5220"
+1502|2007-05-17 11:11:48.457000000|2|24|5|"FL"|"Invoice 5215"
+1503|2007-05-18 05:25:29.973000000|6|179|5|"TN"|"Invoice 5200"
+1504|2007-05-18 10:54:51.720000000|2|168|5|"FL"|"Invoice 5219"
+1505|2007-05-21 07:24:45.560000000|14|66|5|"FL"|"Invoice 5222"
+1506|2007-05-21 07:56:04.647000000|3|102|5|"TN"|"Invoice 6001"
+1507|2007-05-25 07:43:00.590000000|17|139|5|"FL"|"Invoice 5221"
+1508|2007-05-29 08:07:49.757000000|14|28|5|"FL"|"Invoice 5217"
+1509|2007-05-29 08:12:31.410000000|14|77|5|"FL"|"Invoice 5227"
+1510|2007-05-29 08:14:40.180000000|14|79|5|"FL"|"Invoice 5223"
+1511|2007-05-29 08:42:50.290000000|3|35|5|"FL"|"Invoice 5218"
+1512|2007-05-30 10:28:23.290000000|3|145|5|"FL"|"Invoice 5216"
+1513|2007-05-30 11:23:34.313000000|14|154|5|"FL"|"Invoice 5214"
+1515|2007-06-04 09:00:05.210000000|2|154|5|"FL"|"Invoice 6014"
+1516|2007-06-04 11:03:55.967000000|5|2|5|"CA"|"Invoice 6019"
+1517|2007-06-05 23:09:32.227000000|3|145|5|"FL"|"Invoice 6022"
+1518|2007-06-06 05:14:45.193000000|14|79|5|"FL"|"Invoice 6005"
+1519|2007-06-07 10:49:21|2|170|5|"FL"|"Invoice 6013"
+1521|2007-06-08 10:52:41.863000000|14|72|5|"FL"|"Invoice 6007"
+1522|2007-06-08 14:16:56.930000000|14|66|5|"FL"|"Invoice 6011"
+1523|2007-06-10 11:21:44.970000000|5|180|5|"CA"|"Invoice 6020"
+1524|2007-06-11 10:50:36.007000000|14|28|5|"FL"|"Invoice 6009"
+1525|2007-06-12 15:52:28.847000000|17|109|5|"FL"|"Invoice 6004"
+1526|2007-06-14 09:59:07.580000000|17|24|5|"FL"|"Invoice 6012"
+1527|2007-06-14 10:12:42.883000000|3|35|5|"FL"|""
+1528|2007-06-15 06:46:06.310000000|2|13|5|"FL"|"Invoice 6003"
+1529|2007-06-15 12:06:13.780000000|2|157|5|"FL"|"Invoice 6010"
+1530|2007-06-15 13:55:43.213000000|17|139|5|"FL"|"Invoice 6006"
+1531|2007-06-15 13:56:32.217000000|17|151|5|"FL"|"Invoice 6008"
+1532|2007-06-16 19:18:26.800000000|17|66|5|"FL"|"Invoice 6011"
+1533|2007-06-17 23:38:51.730000000|17|66|5|"FL"|"Invoice 6117"
+1534|2007-06-18 00:30:18.087000000|3|173|5|"FL"|"Invoice # 6116"
+1535|2007-06-18 00:32:52.563000000|3|109|5|"FL"|"Invoice # 6108"
+1536|2007-06-18 00:37:34.780000000|3|35|5|"FL"|"Invoice # 6112"
+1537|2007-06-18 10:58:10.980000000|17|139|5|"FL"|"Invoice # 6111"
+1538|2007-06-18 11:26:36.980000000|5|132|5|"CA"|"Invoice 6021"
+1539|2007-06-18 15:59:06.523000000|5|181|5|"CA"|"Invoice 6015"
+1540|2007-06-18 22:05:56.447000000|17|151|5|"FL"|"Invoice # 6114"
+1541|2007-06-19 07:20:09.140000000|3|13|5|"FL"|"Invoice # 6107"
+1542|2007-06-19 12:29:15.503000000|17|154|5|"FL"|"Invoice # 6121"
+1543|2007-06-21 08:38:26.360000000|3|79|5|"FL"|"Invoice # 6109"
+1545|2007-06-22 05:15:50.737000000|6|102|5|"TN"|"Invoice 6036"
+1546|2007-06-22 16:13:50.100000000|3|118|5|"FL"|"Invoice # 6113"
+1547|2007-06-22 16:42:30.563000000|3|144|1|"FL"|""
+1548|2007-06-25 14:55:24.693000000|3|152|5|"FL"|"Invoice# 6110"
+1549|2007-06-26 09:50:20.863000000|6|102|5|"TN"|"Invoice 6067"
+1550|2007-06-26 10:41:30.487000000|2|21|5|"FL"|"Invoice # 6120"
+1551|2007-06-29 11:31:40.440000000|3|170|5|"FL"|"Invoice # 6119"
+1552|2007-07-09 06:23:26.810000000|22|102|5|"TN"|"Invoice 6101"
+1553|2007-07-09 08:52:25.397000000|2|24|5|"FL"|"Invoice # 6118"
+1554|2007-07-10 06:17:20.230000000|6|102|5|"TN"|"Invoice 6126"
+1555|2007-07-12 12:03:22.407000000|5|2|5|"CA"|"Invoice 6156"
+1556|2007-07-13 09:27:38.230000000|6|182|5|"TN"|"Invoice 6103"
+1557|2007-07-13 10:35:12.850000000|17|103|5|"FL"|"Invoice # 6106"
+1558|2007-07-23 08:38:00.397000000|14|164|5|"FL"|"Invoice # 6122"
+1559|2007-07-23 15:12:07.603000000|2|109|5|"FL"|"Invoice # 6108"
+1560|2007-07-24 06:46:36.847000000|3|21|5|"FL"|"Invoice 6140"
+1561|2007-07-24 09:27:23.403000000|17|161|5|"FL"|"Invoice 6141"
+1562|2007-07-24 09:33:30.140000000|17|103|5|"FL"|"Invoice 6143"
+1563|2007-07-24 12:25:21.987000000|17|79|5|"FL"|"Invoice 6145"
+1564|2007-07-24 17:48:49.043000000|14|118|5|"FL"|"Invoice 6144"
+1565|2007-07-25 08:03:27.263000000|17|66|5|"FL"|"Invoice 6146"
+1566|2007-07-25 08:11:47.773000000|14|24|5|"FL"|"Invoice 6147"
+1567|2007-07-26 13:51:44.090000000|17|109|5|"FL"|"Invoice 6148"
+1569|2007-07-27 12:18:58.337000000|6|182|5|"TN"|"Invoice 6127"
+1570|2007-07-30 09:20:52.833000000|17|13|5|"FL"|"Invoice 6149"
+1571|2007-07-31 14:19:59.083000000|2|145|5|"FL"|"Invoice 6150"
+1572|2007-07-31 23:02:50.530000000|17|173|5|"FL"|"Invoice 6151"
+1573|2007-08-02 21:14:23.613000000|17|97|5|"FL"|"Invoice 6153"
+1574|2007-08-03 13:31:15.863000000|2|109|1|"FL"|""
+1575|2007-08-06 05:45:45.770000000|17|66|1|"FL"|""
+1576|2007-08-06 19:05:43.757000000|14|24|1|"FL"|""
+1577|2007-08-07 08:17:43.247000000|17|97|1|"FL"|""
+1578|2007-08-07 12:54:57.850000000|17|21|1|"FL"|""
+1579|2007-08-08 12:35:56.930000000|14|79|1|"FL"|""
+1580|2007-08-09 10:32:23.150000000|17|173|1|"FL"|""
+1581|2007-08-09 12:44:07.470000000|17|13|1|"FL"|""
+1582|2007-08-09 14:18:49.680000000|5|2|1|"CA"|""
+1583|2007-08-10 06:02:38.763000000|2|184|5|"FL"|"Invoice 6142"
+1584|2007-08-10 13:45:02.307000000|14|118|1|"FL"|""
+1585|2007-08-13 13:51:52.177000000|17|151|1|"FL"|""
+1586|2007-08-14 16:30:52.890000000|14|72|1|"FL"|""

@@ -1,0 +1,23 @@
+/* this is the navigation Drop down CSS */
+/* This section is specifically the main displayed values */
+.navstyle { vertical-align: top; font-size: 11px; }
+/*.navstyle:after { /*Add margin between menu and rest of content in Firefox content: "."; display: block; height: 0; clear: both; visibility: hidden; }*/
+.navstyle ul { padding: 0; margin: 1px 10px 0; }
+.navstyle ul li { display: inline; vertical-align: middle; }
+.navstyle ul li a { color: #000; text-decoration: none; padding: 3px 10px 4px; }
+.navstyle ul li a:hover { background: #5D778E; }
+
+/* This section is specifically the items that appear in the drop down itself. */
+
+.dropmenudiv { margin: -1px; position: absolute; top: 0; border: 1px solid #BBB; border-bottom-width: 0; font: normal 10px Verdana; line-height:18px; text-align: left;
+z-index:100; background-color: #5D778E; width: 165px; visibility: hidden; filter: progid:DXImageTransform.Microsoft.Shadow(color=#CACACA,direction=135,strength=4); /*Add Shadow in IE. Remove if desired*/ }
+
+.dropmenudiv a { white-space: nowrap; display: block; text-indent: 3px; border-bottom: 1px solid #fff; padding: 2px 5px 2px 0px; text-decoration: none; color: white; }
+.dropmenudiv ul { margin: 0; padding: 0; }
+.dropmenudiv li { list-style-type: none; margin: 0; padding: 0; }
+
+* html .dropmenudiv a { /*IE only hack*/ width: 100%; }
+.dropmenudiv a:hover { background-color: #3D5569; }
+.NormalTable { background-color: #FFF; padding: 0px; font-size: 11px; width: 100%; border: 1px solid #999;}
+
+/* Complete */
